@@ -43,4 +43,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
-| 1.1 | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) | | |
+| 1.1 | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) |[Yan Werlley](https://github.com/YanWerlley) | Alteração no histórico de Versão para novo padrão [PR#13](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/13)|
