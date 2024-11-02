@@ -5,21 +5,22 @@
 **Entrega**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 211030943  |  Artur Jackson Leal Fontinele  |
-| 202046004  |  Caio Moreira Sulz Gonsalves |
-| 202046004  |  Chtistian Hirsch Santos  |
-| 202046087  | Fabrício Macedo de Queiroz |
-| 211030602  | Flavio Gustavo Araújo de Melo |
-| 190106956  | Gabriel Felipe Mesquita Esteves |
-| 211030774  | Gustavo França Boa Sorte |
-| 211039466  | Harryson Campos Martins |
-| 211045140  | Ian Lucca Soares Mesquita |
-| 190133813  | Italo Bruno Avelino da Silva Melo |
-| 211031790  | Oscar Correia de Brito Neto|
-| 211031889  | Yan Luca Viana de Araújo Fontenele  |
-| 211030649  | Yan Werlley de Freitas Paulo |
+
+|Matrícula | Aluno | Fotos |
+| -- | -- | -- |
+| 211030943  |  Artur Jackson Leal Fontinele  | <img width="100" src="https://github.com/artur-jack.png" style="border-radius: 50px"/> |
+| 202046004  |  Caio Moreira Sulz Gonsalves | <img width="100" src="https://github.com/CaioSulz.png" style="border-radius: 50px"/>  |
+| 202046004  |  Chtistian Hirsch Santos  | <img width="100" src="https://github.com/crstyhs.png" style="border-radius: 50px"/>  |
+| 202046087  | Fabrício Macedo de Queiroz | <img width="100" src="https://github.com/FabricioDeQueiroz.png" style="border-radius: 50px"/>  |
+| 211030602  | Flavio Gustavo Araújo de Melo | <img width="100" src="https://github.com/flavioovatsug.png" style="border-radius: 50px"/>  |
+| 190106956  | Gabriel Felipe Mesquita Esteves | <img width="100" src="https://github.com/GabrielMEsteves.png" style="border-radius: 50px"/>  |
+| 211030774  | Gustavo França Boa Sorte | <img width="100" src="https://github.com/gustavofbs.png" style="border-radius: 50px"/>  |
+| 211039466  | Harryson Campos Martins | <img width="100" src="https://github.com/harry-cmartin.png" style="border-radius: 50px"/>  |
+| 211045140  | Ian Lucca Soares Mesquita | <img width="100" src="https://github.com/IanLucca12.png" style="border-radius: 50px"/>  |
+| 190133813  | Italo Bruno Avelino da Silva Melo | <img width="100" src="https://github.com/italobrunom.png" style="border-radius: 50px"/>  |
+| 211031790  | Oscar Correia de Brito Neto| <img width="100" src="https://github.com/OscarDeBrito.png" style="border-radius: 50px"/>  |
+| 211031889  | Yan Luca Viana de Araújo Fontenele  | <img width="100" src="https://github.com/yan-luca.png" style="border-radius: 50px"/>  |
+| 211030649  | Yan Werlley de Freitas Paulo | <img width="100" src="https://github.com/YanWerlley.png" style="border-radius: 50px"/>  |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
