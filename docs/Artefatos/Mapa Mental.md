@@ -10,7 +10,7 @@ De forma mais específica , a construção do mapa mental é iniciada com um tem
 
 ## Mapa mental elaborado
 O Mapa mental apresentado a seguir foi baseado no brainstorm anteriormente elaborado para ajudar a organizar as sugestões da modelagem do projeto em questão.
-![](../Assets/mapamental.png)
+![](../Assets/mapamental.PNG)
 
 <font size="3"><p style="text-align: center"> Autores: <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/" target="_blank">Todos os integrantes</a> , 2024</p></font>
 
