@@ -41,4 +41,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-| `1.1` | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) | |
+| `1.1` | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) | [Yan Werlley](https://github.com/YanWerlley) |
