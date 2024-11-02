@@ -14,12 +14,7 @@ A combinação de Scrum e XP oferece flexibilidade, permitindo entregas rápidas
 
 Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usado o Lucidchart, conforme apresentado a seguir: 
 
-<div style="width: 935px; height: 480px; margin: 10px; position: relative;">
-  <iframe allowfullscreen frameborder="0" style="width:640px; height:480px" 
-          src="https://lucid.app/documents/embedded/1d715c75-e6c2-48cf-809d-0633255cb984" 
-          id="4OCnk7_HnC8_">
-  </iframe>
-</div>
+<div style="width: 935px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/1d715c75-e6c2-48cf-809d-0633255cb984" id="2RHnPZ58wGJD"></iframe></div>
 
 ## <a>Referências Bibliográficas</a>
 
