@@ -49,6 +49,34 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![](../Assets/ishikawa1.png)
 
 
+## Desenvolver uma plataforma para criar campeonatos em tempo real
+
+### Usabilidade:
+A usabilidade determina o quão intuitiva e agradável é a interação dos usuários com o sistema. Para uma plataforma de campeonatos em tempo real, a facilidade de uso impacta diretamente o sucesso do site, uma vez que organizadores e participantes dependem de atualizações e navegação rápida durante eventos.
+**Interface Simples**: A plataforma deve ser projetada com uma interface limpa e bem organizada. Elementos visuais e funções precisam estar dispostos de forma lógica, permitindo que qualquer usuário, independente de experiência prévia, consiga acessar as informações e realizar ações rapidamente.
+**Baixa Curva de Aprendizado**: A plataforma deve ser projetada com uma interface limpa e bem organizada. Elementos visuais e funções precisam estar dispostos de forma lógica, permitindo que qualquer usuário, independente de experiência prévia, consiga acessar as informações e realizar ações rapidamente.
+
+### Estratégia:
+A estratégia se refere ao planejamento e às diretrizes que orientam o desenvolvimento e a manutenção da plataforma. Uma estratégia bem definida permite que o projeto seja executado de forma organizada, com objetivos claros e práticas sustentáveis, assegurando a longevidade e a qualidade da plataforma.
+**Escopo do Projeto**: Definir um escopo claro ajuda a focar nas funcionalidades essenciais para os campeonatos em tempo real. Isso evita a inclusão de recursos desnecessários e garante que o produto final atenda aos objetivos com eficiência e sem sobrecarregar o desenvolvimento.
+**Manutenção Preventiva**: Implementar uma rotina de manutenção preventiva ajuda a prevenir falhas e problemas que poderiam comprometer a experiência do usuário. Uma estratégia de manutenção contínua garante que o sistema permaneça confiável, especialmente em momentos de maior uso, como durante campeonatos.
+
+### Equipe
+A equipe é um dos pilares principais de qualquer projeto de desenvolvimento. Uma equipe bem formada e comprometida garante que o projeto atinja seus objetivos com qualidade. Para uma plataforma de campeonatos em tempo real, a equipe precisa ser habilidosa em tecnologias específicas e estar preparada para resolver problemas de forma ágil.
+**Disponibilidade**: Ter uma equipe disponível para suportar o desenvolvimento e monitorar o sistema é fundamental para garantir o funcionamento ininterrupto da plataforma, principalmente em eventos ao vivo. Isso também facilita uma resposta rápida a incidentes.
+**Comprometimento**: O comprometimento da equipe é essencial para manter a qualidade e o ritmo de evolução do projeto. Quando todos estão alinhados com os objetivos do projeto, o desenvolvimento se torna mais eficiente e direcionado.
+**Conhecimento Técnico**: A equipe precisa ter expertise técnica nas áreas necessárias para desenvolver um sistema em tempo real. Conhecimento em backend, front-end, UX/UI e sistemas escaláveis é fundamental para entregar uma plataforma robusta e com bom desempenho.
+
+### Recursos
+Os recursos abrangem os materiais e ferramentas necessários para o desenvolvimento, teste e manutenção da plataforma. Recursos adequados garantem que a equipe trabalhe de forma eficiente e que o sistema esteja bem estruturado e preparado para suportar as demandas dos campeonatos em tempo real.
+**Material de Estudo**: Documentação, tutoriais e manuais técnicos são fundamentais para capacitar a equipe e permitir o uso de boas práticas no desenvolvimento. Além disso, esses materiais auxiliam a equipe a solucionar problemas e implementar funcionalidades de forma mais rápida e eficiente.
+**Computador**: Equipamentos de qualidade garantem um ambiente de desenvolvimento fluido e eficiente. Computadores com bom processamento e memória permitem testes locais, execução de simulações e uso de ferramentas mais avançadas para o desenvolvimento.
+**Internet**: Uma conexão de internet rápida e estável é crucial para o desenvolvimento e operação do site. Ela permite comunicação eficiente entre a equipe e o acesso a servidores e ferramentas essenciais para manter a plataforma ativa e funcional.
+
+<center> <figcaption>Figura 2: Diagrama Causa-efeito Desenvolvimento.</figcaption> 
+
+![](../Assets/ishikawa2.png)
+
 
 
 |Versão|Data|Descrição|Autor|Revisor|
