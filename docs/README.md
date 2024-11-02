@@ -39,6 +39,8 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-| `1.1` | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) | [Yan Werlley](https://github.com/YanWerlley) |
+## Histórico de Versão
+
+|Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
+|:----:|----|---------|-----|:-------:|-----| 
+| 1.1 | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) | | |
