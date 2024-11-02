@@ -11,6 +11,7 @@
       - [1.2.2. Diagrama Causa-Efeito](/Artefatos/Ishikawa.md)
     - [1.3. Modelagem BPMN](/ModelagemBPMN/modelagem.md)
       - [1.3.1. Scrum + XP](/ModelagemBPMN/scrumxp.md)
+      - [1.3.2. Projeto](/ModelagemBPMN/projeto.md)
     - [1.4. Participações](/Participacoes/participacoes.md)
     - [1.5. Iniciativas Extras](/IniciativasExtras/iniciativas.md)
       - [1.5.1. HeatMap](/IniciativasExtras/heatmap.md)
