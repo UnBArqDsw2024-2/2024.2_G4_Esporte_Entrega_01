@@ -12,7 +12,7 @@ O processo começa com o planejamento, seguido pela criação do backlog do prod
 
 A combinação de Scrum e XP oferece flexibilidade, permitindo entregas rápidas e de alta qualidade, além de assegurar uma revisão contínua para garantir que o produto final atenda às expectativas do grupo.
 
-Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usado o [Lucidchart][1], conforme apresentado a seguir: 
+Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usado o Lucidchart, conforme apresentado a seguir: 
 
 <div style="width: 935px; height: 480px; margin: 10px; position: relative;">
   <iframe allowfullscreen frameborder="0" style="width:640px; height:480px" 
