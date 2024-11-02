@@ -1,11 +1,15 @@
 # 1.3. Módulo Modelagem BPMN
 
-Foco_3: Modelagem na Notação BPMN.
+## 1. Introdução
 
-Entrega Mínima: Modelagem BPMN, orientando-se por uma abordagem metodológica à escolha da equipe (por exemplo, combinação de práticas do Scrum & XP).
+A BPMN (Business Process Model and Notation) é uma notação padrão para modelagem de processos de negócios, amplamente utilizada para representar de forma clara e padronizada o fluxo de atividades dentro de uma organização. Criada pela Object Management Group (OMG), a BPMN é projetada para ser compreensível tanto por analistas de negócios, que projetam e otimizam processos, quanto por desenvolvedores de software, que implementam soluções baseadas nesses processos.
 
-Apresentação (em sala) explicando o detalhamento metodológico desenhado como um modelo em BPMN, com: (i) rastro claro aos membros participantes (MOSTRAR QUADRO DE PARTICIPAÇÕES & COMMITS); (ii) justificativas & senso crítico sobre as escolhas metodológicas adotadas para o projeto; e (iii) comentários gerais sobre o trabalho em equipe. Tempo da Apresentação: +/- 5min. Recomendação: Apresentar diretamente via Wiki ou GitPages do Projeto. Baixar os conteúdos com antecedência, evitando problemas de internet no momento de exposição nas Dinâmicas de Avaliação.
+A notação BPMN usa elementos gráficos, como atividades, eventos, gateways e fluxos de sequência, para descrever de forma visual o percurso que um processo segue desde seu início até o final. Cada elemento possui uma simbologia específica que ajuda a identificar sua função no processo, permitindo que as partes interessadas compreendam e analisem o funcionamento das atividades com facilidade. Por meio da BPMN, as organizações conseguem mapear processos complexos, identificar gargalos e redundâncias, e promover a melhoria contínua de suas operações, além de facilitar a comunicação entre as áreas envolvidas na execução dos processos.
 
-A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Modelagem BPMN, com modelagem BPMN (viés metodológico), histórico de versões, referências, e demais detalhamentos gerados pela equipe nesse escopo.
+Os arquivos que contemplam a construção da notação BPMN para confecção do projeto são: [ScrumXP](docs/ModelagemBPMN/scrumxp.md) e [Projeto]().
 
-Demais orientações disponíveis nas Diretrizes (vide Moodle).
+## Histórico de Versão
+
+| Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       |
+| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | 
+| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento de Introdução BPMN |[Harryson C](https://github.com/harry-cmartin) | [PR](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/10)|
