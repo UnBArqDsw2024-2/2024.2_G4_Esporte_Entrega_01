@@ -31,6 +31,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 - Brainstorming: O Que É, Como Fazer (Passo a Passo). Disponível em: <https://neilpatel.com/br/blog/o-que-e-brainstorming/>. Acesso em: 1 de nov. de 2024.
 ‌
+## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da Revisão
 |:----:|----|---------|-----|:-------:|-------|

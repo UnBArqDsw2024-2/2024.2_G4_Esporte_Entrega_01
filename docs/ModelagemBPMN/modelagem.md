@@ -10,6 +10,6 @@ Os arquivos que contemplam a construção da notação BPMN para confecção do 
 
 ## Histórico de Versão
 
-| Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       |
-| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | 
-| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento de Introdução BPMN |[Harryson C](https://github.com/harry-cmartin) | [PR](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/10)|
+| Versão | Data    | Data de Revisão  | Descrição     | Autor    | Revisor    | Detalhes da revisão |
+| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
+| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento de Introdução BPMN |[Harryson C](https://github.com/harry-cmartin) | | |

@@ -70,6 +70,6 @@ Autor:  [Christian Hirsch](https://github.com/crstyhs), 2024
 
 ##  Histórico de versões
 
-| Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
-| ------ | ---------- | ---------------- | ------------------ | ----------- |
-| `1.0`    | 01/11/2024 | Criação do Documento |[Christian Hirsch](https://github.com/crstyhs) |  |
+| Versão | Data   | Descrição | Autor | Revisor   | Detalhes da revisão |
+| ------ | ---------- | ---------------- | ------------------ | ----------- | |
+| `1.0`    | 01/11/2024 | Criação do Documento |[Christian Hirsch](https://github.com/crstyhs) |  | |

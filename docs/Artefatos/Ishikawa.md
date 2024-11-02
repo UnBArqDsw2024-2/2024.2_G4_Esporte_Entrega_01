@@ -96,7 +96,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-| `1.1` | 02/11/2024 | Criação do documento/Inserção do primeiro diagrama | [Oscar de Brito](https://github.com/OscarDeBrito) | [Gustavo França](https://github.com/gustavofbs) |
-| `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) | [Fabrício](https://github.com/FabricioDeQueiroz) |
+|Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
+|:----:|----|---------|-----|:-------:| |
+| `1.1` | 02/11/2024 | Criação do documento/Inserção do primeiro diagrama | [Oscar de Brito](https://github.com/OscarDeBrito) |  |
+| `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | |

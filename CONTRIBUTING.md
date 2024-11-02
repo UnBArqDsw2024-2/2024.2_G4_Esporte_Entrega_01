@@ -49,3 +49,19 @@ Corpo: (Opcional) Explicação mais detalhada sobre a mudança, se necessário. 
 Footer: (Opcional) Incluir informações adicionais, como referências a tickets ou issues (ex.: Closes #123 ou Relates to #456).
 
 [Ex de contibuting](https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CONTRIBUTING.md)
+
+
+## Layout de branch
+
+<tipo>(escopo opcional):<o que tá fazendo>
+
+feat: Adiciona uma nova funcionalidade.
+fix: Corrige um bug.
+chore: Atualizações triviais, como mudanças no build, dependências, etc.
+docs: Atualizações na documentação.
+style: Mudanças de formatação, como espaços, vírgulas, etc., sem impactar a lógica.
+refactor: Refatorações de código que não afetam a funcionalidade.
+test: Adiciona ou modifica testes.
+
+Exemplo:
+Docs-Artefato-Storyboard
