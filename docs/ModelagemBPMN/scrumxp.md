@@ -27,8 +27,8 @@ Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usa
 
 ## Histórico de Versão
 
-| Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       |
-| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | 
-| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | [PR](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/10)|
+| Versão | Data       | Data de Revisão          | Descrição            | Autor                   | Revisor            |  Detalhes da revisão |
+| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
+| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
 
 

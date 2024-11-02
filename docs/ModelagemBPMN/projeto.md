@@ -20,7 +20,7 @@ O processo começa com o organizador acessando a plataforma, seguido pela autent
 
 ## Histórico de Versão
 
-| Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       |
-| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | 
+| Versão | Data       | Data de Revisão          | Descrição            | Autor              | Revisor                 | Detalhes da revisão |
+| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
 | 1.0    | 02/11/2024 | 02/11/2024               | Criação do documento | [Artur Jackson](https://github.com/artur-jack) |  
-| 1.1    | 02/11/2024 | 02/11/2024               | Adição de introdução ao diagrama | [Caio Sulz](https://github.com/CaioSulz) |
+| 1.1    | 02/11/2024 | 02/11/2024               | Adição de introdução ao diagrama | [Caio Sulz](https://github.com/CaioSulz) | | |

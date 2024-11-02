@@ -30,6 +30,8 @@ Etapa 4 - Protótipo: Baseados no storyboard final, desenvolvemos um protótipo 
 
     1. GOOGLE VENTURES. The Design Sprint. Disponível em: <<http://www.gv.com/sprint/>>. Acesso em: 02/11/2024.
 
+## Histórico de Versão
+
 |Versão|Data|Descrição|Autor|Revisor|Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| -- |
 |`1.1` | 02/11/2024| Criação do Documento | [Italo Bruno](https://github.com/italobrunoM)  | | |
