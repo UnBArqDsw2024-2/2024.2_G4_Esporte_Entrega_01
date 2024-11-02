@@ -8,6 +8,7 @@
     - [1.1. Design Sprint](/DesignSprint/designsprint.md)
     - [1.2. Artefato Generalista](/Artefatos/artefato.md)
       - [1.2.1. 5W2H](/Artefatos/5w2h.md)
+      - [1.2.2. Diagrama Causa-Efeito](/Artefatos/Ishikawa.md)
     - [1.3. Modelagem BPMN](/ModelagemBPMN/modelagem.md)
     - [1.4. Participações](/Participacoes/participacoes.md)
     - [1.5. Iniciativas Extras](/IniciativasExtras/iniciativas.md)
