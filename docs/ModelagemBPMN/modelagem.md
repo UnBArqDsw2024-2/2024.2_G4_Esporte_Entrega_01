@@ -2,4 +2,4 @@
 
 ## 1. Introdução
 
-fazer um texto de introducao sobre a notacao BPMN e referenciar os demais arquivos dentro da pasta ModelagemBPMN
+A BPMN (Business Process Model and Notation) é uma notação padrão para modelagem de processos de negócios, amplamente utilizada para representar de forma clara e padronizada o fluxo de atividades dentro de uma organização. 
