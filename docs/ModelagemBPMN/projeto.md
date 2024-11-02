@@ -10,9 +10,11 @@
 
 O processo começa com o organizador acessando a plataforma, seguido pela autenticação e criação do campeonato. O organizador cadastra times e jogadores. O Participante, após autenticação, pode solicitar o ingresso em algum time que tenha vaga disponível. Durante o campeonato, o organizador gerencia as partidas e, ao final, encerra o campeonato, deixando as estatísticas disponíveis para consulta dos participantes.
 
+<div style="width: 935px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/ec1eecf9-9cee-4ba3-b765-690b31272189" id="9XGn9AWuBDba"></iframe></div>
+
 ## <a>Referências Bibliográficas</a>
 
-> <a id="REF1" href="#anchor_1">1.</a> Diagrama BPMN do projeto. Lucidchart. Disponível em: <https://lucid.app/lucidchart/ec1eecf9-9cee-4ba3-b765-690b31272189/edit?view_items=wIFn0HoXiycD%2C9QFn1z4BuGD0&invitationId=inv_63fa9c44-7239-4e43-b0e3-fa1429af7ced>. Acesso em: 2 nov. 2024.
+> <a id="REF1" href="#anchor_1">1.</a> Diagrama BPMN do projeto. Lucidchart. Disponível em: <https://lucid.app/lucidchart/ec1eecf9-9cee-4ba3-b765-690b31272189/edit?viewport_loc=-426%2C-250%2C2510%2C1032%2C0_0&invitationId=inv_63fa9c44-7239-4e43-b0e3-fa1429af7ced>. Acesso em: 2 nov. 2024.
 
 
 
