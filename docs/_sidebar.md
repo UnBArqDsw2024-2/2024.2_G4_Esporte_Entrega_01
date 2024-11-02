@@ -3,6 +3,11 @@
 - [Home](/)
 - [Projetos](/Projetos/Projetos.md)
 
+
+- **Reuniões**
+  - Atas
+    - [Ata Artefatos - 02/11/2024](/Atas/atas.md)
+
 - **Base**
   - [1. Desenho de Software](/Base/1.Base.md)
     - [1.1. Design Sprint](/DesignSprint/designsprint.md)
