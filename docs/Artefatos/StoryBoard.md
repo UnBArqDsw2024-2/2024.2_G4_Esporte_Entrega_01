@@ -1,7 +1,7 @@
 # StoryBoard
 
 ## Introdução 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Um storyboard é uma ferramenta visual que representa uma sequência de eventos ou uma narrativa através de ilustrações, imagens ou quadros desenhados. É amplamente utilizado em áreas como cinema, animação, design de jogos, publicidade e desenvolvimento de produtos, especialmente em projetos de software e aplicativos. O storyboard ajuda a planejar e visualizar a estrutura de uma história ou processo, facilitando a comunicação de ideias e a organização de conteúdos.
 
 ## Tarefa 1 - Criar e Organizar Torneio
 Nessa primeira tarefa, o usuário utiliza o site "TorneioPro", para criar um torneio nos formatos desejados, especificando o formato do 
@@ -39,3 +39,4 @@ O usuário faz o seu cadastro e do time com os jogadores participantes, com o in
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
 | 1.1 | 02/11/2024 | Criação do documento StoryBoard | [GabrielMEsteves](https://github.com/GabrielMEsteves) |  ||
+| 1.2 | 03/11/2024 | Adição de uma introdução | [Ian Lucca](https://github.com/IanLucca12) |  ||
