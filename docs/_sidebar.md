@@ -11,6 +11,7 @@
   - [1. Desenho de Software](/Base/1.Base.md)
     - [1.1. Design Sprint](/DesignSprint/designsprint.md)
       - [1.1.1. Brainstorming](/DesignSprint/brainstorming.md)
+      - [1.1.2. Protótipo](/DesignSprint/prototipo.md)
     - [1.2. Artefato Generalista](/Artefatos/artefato.md)
       - [1.2.1. 5W2H](/Artefatos/5w2h.md)
       - [1.2.2. Diagrama Causa-Efeito](/Artefatos/Ishikawa.md)
