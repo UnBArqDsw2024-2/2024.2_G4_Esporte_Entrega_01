@@ -56,8 +56,8 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
-|:----:|----|---------|-----|:-------:|-----| 
-| 1.0 | 03/11/2024 | Criação do documento do Glossário | [Christian Hirsch](https://github.com/) |  ||
-| 1.1 | 03/11/2024 | Atualiza palavras do glossário | [Christian Hirsch](https://github.com/), [Ian Lucca](https://github.com/IanLucca12) e [Oscar de Brito](https://github.com/OscarDeBrito)|  ||
-| 1.2 | 03/11/2024 | Adição da Introdução |  [Ian Lucca](https://github.com/IanLucca12) | |[#21](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21)|
+| Versão | Data       | Descrição                              | Autor(es)                                                                          | Revisor    | Detalhes da revisão                                                               |
+|:------:|------------|---------------------------------------|-----------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------|
+| 1.0    | 03/11/2024 | Criação do documento do Glossário     | [Christian Hirsch](https://github.com/)                                          | | |
+| 1.1    | 03/11/2024 | Atualiza palavras do glossário       | [Christian Hirsch](https://github.com/), [Ian Lucca](https://github.com/IanLucca12), [Oscar de Brito](https://github.com/OscarDeBrito) |    [Ian Lucca](https://github.com/IanLucca12)        |                               [PR#21](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21)                                                    |
+
