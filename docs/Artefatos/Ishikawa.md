@@ -1,7 +1,11 @@
 # Método Diagrama Causa-efeito (ishikawa)
 
 ## Introdução
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+O Diagrama de Causa-Efeito, também conhecido como Diagrama de Ishikawa ou Diagrama de Espinha de Peixe, é uma ferramenta de análise usada para identificar e organizar as possíveis causas de um problema específico.
+
+Desenvolvido por Kaoru Ishikawa, ele auxilia equipes na visualização dos fatores que contribuem para um problema, facilitando a identificação de causas raiz ao agrupar fatores relacionados, promovendo uma análise sistemática e colaborativa, que ajuda na tomada de decisões para a resolução eficaz do problema.
+
+Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser usado para estruturar uma sessão de brainstorming que permite identificar possíveis causas para um problema, classificando as ideias em categorias úteis.
 
 ## Dificuldade em achar uma plataforma para criar campeonatos em tempo real:
 
@@ -89,14 +93,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <center> <figcaption>Figura 2: Diagrama Causa-efeito Desenvolvimento.</figcaption> 
 
-![](../Assets/ishikawa2.png)
+![Diagrama](../Assets/ishikawa2.png)
 
-<font size="3"><p style="text-align: center"> Fonte: <a href="https://github.com/flavioovatsug" target="_blank">Flávio Gustavo</a> e <a href="https://github.com/OscarDeBrito
+<font size="3"><p style="text-align: center"> Autores: <a href="https://github.com/flavioovatsug" target="_blank">Flávio Gustavo</a> e <a href="https://github.com/OscarDeBrito
 " target="_blank">Oscar Brito</a>, 2024</p></font>
 
+## Conclusão
+
+O diagrama de Ishikawa criado destaca áreas cruciais como Estratégia, Usabilidade, Equipe e Recursos. Cada uma dessas categorias detalha elementos fundamentais para o sucesso do projeto. A Estratégia define o escopo e a necessidade de manutenção preventiva para garantir a qualidade a longo prazo. A Usabilidade enfatiza a importância de uma interface simples e intuitiva, facilitando o uso por todos os usuários. A Equipe precisa ser comprometida, tecnicamente capacitada e disponível para lidar com o desenvolvimento e suporte do sistema. Por fim, os Recursos abrangem desde equipamentos adequados até o acesso à internet e materiais de estudo, essenciais para o desenvolvimento contínuo e eficaz.
+
+## Referências bibliográficas
+
+>[1] tecnicon. Disponível em: [tecnicon.com.br](https://www.tecnicon.com.br/blog/541-Analise_de_causa_e_efeito_o_que_e_diagrama_de_Ishikawa_e_como_fazer#:~:text=Surgimento%20do%20Diagrama%20de%20Ishikawa&text=Esta%20ferramenta%2C%20representada%20por%20um,por%20completo%2C%20evitando%20que%20volte.) </br>
 
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| |
 | `1.1` | 02/11/2024 | Criação do documento/Inserção do primeiro diagrama | [Oscar de Brito](https://github.com/OscarDeBrito) |  |
-| `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | |
+| `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | 
+| `1.3` | 02/11/2024 | Adição da introdução do documento | [Caio Sulz](https://github.com/CaioSulz) |  | |
+| `1.4` | 03/11/2024 | Adição da conclusão do documento | [Italo Bruno](https://github.com/italobrunom) |  | |

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-
+Um cronograma é uma ferramenta de planejamento que organiza e detalha a sequência de atividades e prazos necessários para a execução de um projeto. Ele visa distribuir tarefas ao longo de um período específico, definindo marcos, datas de início e término, e responsáveis por cada etapa. Através do cronograma, é possível acompanhar o andamento do projeto, prever atrasos e facilitar o gerenciamento dos recursos, assegurando que todas as fases sejam concluídas de acordo com os objetivos e prazos estabelecidos.
 
 ## Entregas
 
@@ -72,4 +72,5 @@ Autor:  [Christian Hirsch](https://github.com/crstyhs), 2024
 
 | Versão | Data   | Descrição | Autor | Revisor   | Detalhes da revisão |
 | ------ | ---------- | ---------------- | ------------------ | ----------- | |
-| `1.0`    | 01/11/2024 | Criação do Documento |[Christian Hirsch](https://github.com/crstyhs) |  | |
+| `1.0`    | 01/11/2024 | Criação do Documento |[Christian Hirsch](https://github.com/crstyhs) |  | 
+| `1.1`    | 02/11/2024 | Adição da introdução do documento |[Caio Sulz](https://github.com/CaioSulz) |  | |
