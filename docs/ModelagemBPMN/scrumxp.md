@@ -16,6 +16,12 @@ Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usa
 
 <div style="width: 935px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/1d715c75-e6c2-48cf-809d-0633255cb984" id="2RHnPZ58wGJD"></iframe></div>
 
+## Conclusão
+
+A combinação das metodologias Scrum e Extreme Programming (XP) foi escolhida estrategicamente para proporcionar uma estrutura eficiente ao nosso projeto. 
+A adoção do Scrum ajudará a organizar as sprints e priorizar o backlog de atividades, enquanto as práticas de XP, como desenvolvimento em pares e revisões constantes, promoverão a colaboração e a troca de conhecimento entre os membros da equipe. A função de revisor, atribuída a um membro interno, será essencial para assegurar a qualidade, dada a ausência de um stakeholder externo. Utilizando a combinação dessas metodologias garante um processo de desenvolvimento organizado e claro.
+
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Diagrama do processo de integração Scrum e XP. Lucidchart. Disponível em: <https://lucid.app/documents/embedded/1d715c75-e6c2-48cf-809d-0633255cb984\>. Acesso em: 2 nov. 2024.
@@ -25,5 +31,6 @@ Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usa
 | Versão | Data       | Data de Revisão          | Descrição            | Autor                   | Revisor            |  Detalhes da revisão |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
 | `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
+| `1.1`    | 03/11/2024 | 03/11/2024               | Adição da conclusão | [Gabriel Esteves](https://github.com/GabrielMEsteves) | | |
 
 
