@@ -93,10 +93,14 @@ Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser 
 
 <center> <figcaption>Figura 2: Diagrama Causa-efeito Desenvolvimento.</figcaption> 
 
-![](../Assets/ishikawa2.png)
+![Diagrama](../Assets/ishikawa2.png)
 
 <font size="3"><p style="text-align: center"> Autores: <a href="https://github.com/flavioovatsug" target="_blank">Flávio Gustavo</a> e <a href="https://github.com/OscarDeBrito
 " target="_blank">Oscar Brito</a>, 2024</p></font>
+
+## Conclusão
+
+O diagrama de Ishikawa criado destaca áreas cruciais como Estratégia, Usabilidade, Equipe e Recursos. Cada uma dessas categorias detalha elementos fundamentais para o sucesso do projeto. A Estratégia define o escopo e a necessidade de manutenção preventiva para garantir a qualidade a longo prazo. A Usabilidade enfatiza a importância de uma interface simples e intuitiva, facilitando o uso por todos os usuários. A Equipe precisa ser comprometida, tecnicamente capacitada e disponível para lidar com o desenvolvimento e suporte do sistema. Por fim, os Recursos abrangem desde equipamentos adequados até o acesso à internet e materiais de estudo, essenciais para o desenvolvimento contínuo e eficaz.
 
 ## Referências bibliográficas
 
@@ -108,3 +112,4 @@ Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser 
 | `1.1` | 02/11/2024 | Criação do documento/Inserção do primeiro diagrama | [Oscar de Brito](https://github.com/OscarDeBrito) |  |
 | `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | 
 | `1.3` | 02/11/2024 | Adição da introdução do documento | [Caio Sulz](https://github.com/CaioSulz) |  | |
+| `1.4` | 03/11/2024 | Adição da conclusão do documento | [Italo Bruno](https://github.com/italobrunom) |  | |
