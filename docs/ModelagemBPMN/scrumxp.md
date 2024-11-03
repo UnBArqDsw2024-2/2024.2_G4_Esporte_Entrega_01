@@ -14,7 +14,19 @@ A combinação de Scrum e XP oferece flexibilidade, permitindo entregas rápidas
 
 Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usado o Lucidchart, conforme apresentado a seguir: 
 
-<div style="width: 935px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/1d715c75-e6c2-48cf-809d-0633255cb984" id="2RHnPZ58wGJD"></iframe></div>
+<div style="min-width: 935px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef">
+  <iframe src="https://app.mural.co/embed/cd2d0734-87be-43df-8bdc-97176dfea4c3"
+          width="100%"
+          height="480px"
+          sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox">
+  </iframe>
+</div>
+
+## Conclusão
+
+A combinação das metodologias Scrum e Extreme Programming (XP) foi escolhida estrategicamente para proporcionar uma estrutura eficiente ao nosso projeto. 
+A adoção do Scrum ajudará a organizar as sprints e priorizar o backlog de atividades, enquanto as práticas de XP, como desenvolvimento em pares e revisões constantes, promoverão a colaboração e a troca de conhecimento entre os membros da equipe. A função de revisor, atribuída a um membro interno, será essencial para assegurar a qualidade, dada a ausência de um stakeholder externo. Utilizando a combinação dessas metodologias garante um processo de desenvolvimento organizado e claro.
+
 
 ## <a>Referências Bibliográficas</a>
 
@@ -22,8 +34,12 @@ Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usa
 
 ## Histórico de Versão
 
-| Versão | Data       | Data de Revisão          | Descrição            | Autor                   | Revisor            |  Detalhes da revisão |
-| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
-| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
+| Versão | Data       | Descrição            | Autor                   | Revisor            |  Detalhes da revisão |
+| ------ | ---------- | -------------------- | ------------------------------- | --------------------------------- | |
+| 1.0    | 02/11/2024 | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
+| 1.1    | 02/11/2024 | Adição de introdução ao diagrama |[Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin), [Artur Jackson](https://github.com/artur-jack) e [Gustavo França](https://github.com/gustavofbs) | | |
+| 1.2    | 03/11/2024 | Altera plataforma do iframe | [Gustavo França](https://github.com/gutavofbs) | [Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19) | 
+
+
 
 
