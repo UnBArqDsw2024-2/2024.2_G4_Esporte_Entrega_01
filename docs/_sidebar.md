@@ -16,6 +16,7 @@
       - [1.2.2. Diagrama Causa-Efeito](/Artefatos/Ishikawa.md)
       - [1.2.3. Cronograma](/Artefatos/Cronograma.md)
       - [1.2.4. Mapa Mental](/Artefatos/Mapamental.md)
+      - [1.2.5. StoryBoard](/Artefatos/StoryBoard.md)
     - [1.3. Modelagem BPMN](/ModelagemBPMN/modelagem.md)
       - [1.3.1. Scrum + XP](/ModelagemBPMN/scrumxp.md)
       - [1.3.2. Projeto](/ModelagemBPMN/projeto.md)
