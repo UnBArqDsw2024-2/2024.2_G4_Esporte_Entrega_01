@@ -10,7 +10,13 @@
 
 O processo começa com o organizador acessando a plataforma, seguido pela autenticação e criação do campeonato. O organizador cadastra times e jogadores. O Participante, após autenticação, pode solicitar o ingresso em algum time que tenha vaga disponível. Durante o campeonato, o organizador gerencia as partidas e, ao final, encerra o campeonato, deixando as estatísticas disponíveis para consulta dos participantes.
 
-<div style="width: 935px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/ec1eecf9-9cee-4ba3-b765-690b31272189" id="9XGn9AWuBDba"></iframe></div>
+<div style="min-width: 935px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef">
+  <iframe src="https://app.mural.co/embed/bc0f9db3-fa2a-4097-afb8-e7b5908e0ac5"
+          width="100%"
+          height="480px"
+          sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox">
+  </iframe>
+</div>
 
 ## <a>Referências Bibliográficas</a>
 
@@ -20,7 +26,9 @@ O processo começa com o organizador acessando a plataforma, seguido pela autent
 
 ## Histórico de Versão
 
-| Versão | Data       | Data de Revisão          | Descrição            | Autor              | Revisor                 | Detalhes da revisão |
-| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
-| 1.0    | 02/11/2024 | 02/11/2024               | Criação do documento | [Artur Jackson](https://github.com/artur-jack) |  
-| 1.1    | 02/11/2024 | 02/11/2024               | Adição de introdução ao diagrama | [Caio Sulz](https://github.com/CaioSulz) | | |
+| Versão | Data       | Descrição            | Autor              | Revisor                 | Detalhes da revisão |
+| ------ | ---------- | -------------------- | ------------------------------- | --------------------------------- | |
+| 1.0    | 02/11/2024 | Criação do documento | [Artur Jackson](https://github.com/artur-jack) |  
+| 1.1    | 02/11/2024 | Adição de introdução ao diagrama | [Caio Sulz](https://github.com/CaioSulz) | | |
+| 1.2    | 02/11/2024 | Altera plataforma do iframe | [Gustavo França](https://github.com/gutavofbs) | | |
+
