@@ -31,6 +31,9 @@ Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usa
 | Versão | Data       | Descrição            | Autor                   | Revisor            |  Detalhes da revisão |
 | ------ | ---------- | -------------------- | ------------------------------- | --------------------------------- | |
 | 1.0    | 02/11/2024 | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
-| 1.1    | 02/11/2024 | Altera plataforma do iframe | [Gustavo França](https://github.com/gutavofbs) | | |
+| 1.1    | 02/11/2024 | Adição de introdução ao diagrama |[Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin), [Artur Jackson](https://github.com/artur-jack) e [Gustavo França](https://github.com/gustavofbs) | | |
+| 1.2    | 03/11/2024 | Altera plataforma do iframe | [Gustavo França](https://github.com/gutavofbs) | | |
+
+
 
 
