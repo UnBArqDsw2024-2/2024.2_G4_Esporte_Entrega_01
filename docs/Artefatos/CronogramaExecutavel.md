@@ -20,4 +20,5 @@ _Autor:  [Ian Lucca](https://github.com/IanLucca12), 2024._
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| ----- |
-|`1.0`| 02/11/2024 | Criação do Artefato |[Ian Lucca](https://github.com/IanLucca12)  | |
+|`1.0`| 03/11/2024 | Criação do Artefato |[Ian Lucca](https://github.com/IanLucca12)  |  [Christian Hirsch](https://github.com/crstyhs) |[PR#28](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/28) | 
+
