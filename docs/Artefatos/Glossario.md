@@ -1,7 +1,7 @@
 # Glossário
 
 ## Introdução
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Um glossário é uma lista de termos e suas definições, geralmente organizada em ordem alfabética. É utilizado para esclarecer o significado de palavras ou expressões específicas dentro de um determinado contexto, como em textos técnicos, acadêmicos ou especializados. Os glossários ajudam os leitores a entender melhor o conteúdo, especialmente quando são usados jargões ou terminologias que podem não ser familiares a todos. 
 
 ## Estrutura e Explicação do Glosssário: 
 O glossário é um conjunto de termos acompanhados de suas respectivas definições, criado para facilitar o entendimento dos membros do grupo sobre conceitos e expressões utilizados no projeto. 
@@ -60,3 +60,4 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 |:----:|----|---------|-----|:-------:|-----| 
 | 1.0 | 03/11/2024 | Criação do documento do Glossário | [Christian Hirsch](https://github.com/) |  ||
 | 1.1 | 03/11/2024 | Atualiza palavras do glossário | [Christian Hirsch](https://github.com/), [Ian Lucca](https://github.com/IanLucca12) e [Oscar de Brito](https://github.com/OscarDeBrito)|  ||
+| 1.2 | 03/11/2024 | Adição da Introdução |  [Ian Lucca](https://github.com/IanLucca12) | |[#21](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21)|
