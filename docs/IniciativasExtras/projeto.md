@@ -23,4 +23,4 @@ O processo começa com o organizador acessando a plataforma, seguido pela autent
 | Versão | Data       | Data de Revisão          | Descrição            | Autor              | Revisor                 | Detalhes da revisão |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
 | 1.0    | 02/11/2024 | 02/11/2024               | Criação do documento | [Artur Jackson](https://github.com/artur-jack) |  
-| 1.1    | 02/11/2024 | 02/11/2024               | Adição de introdução ao diagrama |[Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin) e [Gustavo França](https://github.com/gustavofbs) | | |
+| 1.1    | 02/11/2024 | 02/11/2024               | Adição de introdução ao diagrama |[Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin), [Artur Jackson](https://github.com/artur-jack) e [Gustavo França](https://github.com/gustavofbs) | | |
