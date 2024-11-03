@@ -21,5 +21,5 @@
     - [1.4. Participações](/Participacoes/participacoes.md)
     - [1.5. Iniciativas Extras](/IniciativasExtras/iniciativas.md)
       - [1.5.1. HeatMap](/IniciativasExtras/heatmap.md)
-      - [1.5.2 Quadro de Conhecimentos](/IniciativasExtras/conhecimentos.md)
+      - [1.5.2. Quadro de Conhecimentos](/IniciativasExtras/conhecimentos.md)
       - [1.5.3. Projeto](/IniciativasExtras/projeto.md)

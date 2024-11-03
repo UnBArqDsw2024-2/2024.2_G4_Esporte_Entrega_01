@@ -26,6 +26,13 @@ Etapa 3 - Storyboard: Criamos diferentes storyboards que representam os fluxos i
 
 Etapa 4 - Protótipo: Baseados no storyboard final, desenvolvemos um protótipo de alta fidelidade. Esse protótipo tangibiliza a solução para que seja possível testar e ajustar detalhes importantes antes da entrega final.
 
+## Conclusão
+
+O Design Sprint, adaptado para o projeto, oferece uma estrutura eficiente e dinâmica para abordar problemas complexos. A metodologia divide o desenvolvimento em etapas que facilitam a geração de ideias, a organização de conceitos e a validação rápida de soluções. A sequência de brainstorm, mapa mental, storyboard e prototipagem garante que a equipe explore diferentes abordagens de forma estruturada e colaborativa.
+Essa abordagem promove agilidade na identificação de melhorias e proporciona clareza no planejamento da experiência do usuário. O foco na criação de artefatos e na prototipagem permite ajustes rápidos, garantindo que o produto final seja mais eficaz e alinhado com os objetivos estabelecidos.
+
+
+
 ## Referencias
 
     1. GOOGLE VENTURES. The Design Sprint. Disponível em: <<http://www.gv.com/sprint/>>. Acesso em: 02/11/2024.
@@ -35,3 +42,4 @@ Etapa 4 - Protótipo: Baseados no storyboard final, desenvolvemos um protótipo 
 |Versão|Data|Descrição|Autor|Revisor|Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| -- |
 |`1.1` | 02/11/2024| Criação do Documento | [Italo Bruno](https://github.com/italobrunoM)  | | |
+|`1.2` | 03/11/2024| Adição da Conclusão | [Gabriel Esteves](https://github.com/GabrielMEsteves)  | | |
