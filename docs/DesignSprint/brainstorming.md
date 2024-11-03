@@ -1,6 +1,6 @@
 # Brainstorming
 ## Introdução
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Este documento contém uma breve explicação do uso do Brainstorming juntamente com sua elaboração pelos integrantes do grupo 4
 
 ## Explicação dos Elementos do Brainstorming
 
@@ -20,9 +20,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLK4ifVU=/?moveToViewport=-541,-309,3717,2807&embedId=349383055653" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ---
-## Conclusão?
+## Conclusão
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+O brainstorming elaborado acima será usado como base para elaboração do mapa mental, representando uma organização dos pensamentos do integrantes.
 ---
 
 ## Referências Bibliográgicas 
@@ -35,4 +35,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da Revisão
 |:----:|----|---------|-----|:-------:|-------|
-|`1.0`| 02/11/2024 | Criação do documento |[Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) | | | 
+|`1.0`| 02/11/2024 | Criação do documento |[Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) |[Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19) | 

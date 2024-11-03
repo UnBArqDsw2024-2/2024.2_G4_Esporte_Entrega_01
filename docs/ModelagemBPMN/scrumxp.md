@@ -28,11 +28,12 @@ Para a criação do diagrama BPMN que represente esse fluxo e os demais, foi usa
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor                   | Revisor            |  Detalhes da revisão |
-| ------ | ---------- | -------------------- | ------------------------------- | --------------------------------- | |
-| 1.0    | 02/11/2024 | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
-| 1.1    | 02/11/2024 | Adição de introdução ao diagrama |[Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin), [Artur Jackson](https://github.com/artur-jack) e [Gustavo França](https://github.com/gustavofbs) | | |
-| 1.2    | 03/11/2024 | Altera plataforma do iframe | [Gustavo França](https://github.com/gutavofbs) | | |
+| Versão | Data       | Descrição                                   | Autor                                                                                             | Revisor | Detalhes da revisão |
+| ------ | ---------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | -------------------- |
+| 1.0    | 02/11/2024 | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs)                                                  |         |                      |
+| 1.1    | 02/11/2024 | Adição de introdução ao diagrama            | [Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin), [Artur Jackson](https://github.com/artur-jack), [Gustavo França](https://github.com/gustavofbs) |         |                      |
+| 1.2    | 03/11/2024 | Altera plataforma do iframe                  | [Gustavo França](https://github.com/gustavofbs)                                                  |    [Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19)       |
+
 
 
 
