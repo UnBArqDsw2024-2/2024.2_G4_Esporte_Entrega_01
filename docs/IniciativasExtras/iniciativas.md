@@ -2,7 +2,7 @@
 
 No contexto da entrega, destacamos as Iniciativas Extras realizadas pela equipe, que agregaram valor e contribuíram para o aprimoramento do escopo. Essas iniciativas representam esforços adicionais, visando superar as expectativas e atender com excelência os objetivos propostos. A seguir, são apresentados os links com comprobatórios que evidenciam cada realização extra, detalhando seu impacto positivo no resultado final.
 
-Artefatos extras criados: [BPMN do Projeto](docs/IniciativasExtras/projeto.md), [Tabela de conhecimentos](docs/IniciativasExtras/conhecimentos.md) e [HeatMap](docs/IniciativasExtras/heatmap.md)
+Artefatos extras criados: [BPMN do Projeto](../IniciativasExtras/projeto.md), [Tabela de conhecimentos](../IniciativasExtras/conhecimentos.md) e [HeatMap](../IniciativasExtras/heatmap.md)
 
 
 ## Histórico de Versão
