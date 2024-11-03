@@ -18,7 +18,7 @@ O Design Sprint oferece uma abordagem estruturada e intensiva para desenvolver i
 
 Para a primeira etapa do projeto, adaptamos a metodologia Design Sprint para construir artefatos que nos ajudem a solucionar o problema definido pela equipe. Em vez de seguir o modelo de dias consecutivos, organizamos o desenvolvimento em uma série de etapas focadas na resolução do problema. As etapas estão detalhadas a seguir e representadas na Modelagem BPMN:
 
-Etapa 1 - Brainstorm: Realizamos uma sessão de brainstorm para gerar ideias iniciais sobre como abordar o problema. Nesta fase, o objetivo é explorar diversas soluções e ideias que podem auxiliar na criação de um projeto mais eficiente, levando em consideração que "o site não atende os padrões GOV".
+Etapa 1 - Brainstorm: Realizamos uma sessão de brainstorm para gerar ideias iniciais sobre como abordar o problema. Nesta fase, o objetivo é explorar diversas soluções e ideias que podem auxiliar na criação de um projeto mais eficiente.
 
 Etapa 2 - Mapa Mental: Com as ideias do brainstorm, desenvolvemos um mapa mental para organizar e estruturar o escopo do projeto. Esse mapa ajuda a visualizar os principais componentes e desafios, identificando possíveis empecilhos e oportunidades para resolver o problema.
 
@@ -35,7 +35,7 @@ Essa abordagem promove agilidade na identificação de melhorias e proporciona c
 
 ## Referencias
 
-    1. GOOGLE VENTURES. The Design Sprint. Disponível em: <<http://www.gv.com/sprint/>>. Acesso em: 02/11/2024.
+1. GOOGLE VENTURES. The Design Sprint. Disponível em: [http://www.gv.com/sprint/](http://www.gv.com/sprint/). Acesso em: 02/11/2024.
 
 ## Histórico de Versão
 
