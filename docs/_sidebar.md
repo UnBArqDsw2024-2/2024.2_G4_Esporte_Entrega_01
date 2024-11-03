@@ -18,6 +18,8 @@
       - [1.2.3. Cronograma](/Artefatos/Cronograma.md)
       - [1.2.4. Cronograma Executável](/Artefatos/CronogramaExecutavel.md)
       - [1.2.5. Mapa Mental](/Artefatos/Mapamental.md)
+      - [1.2.6. StoryBoard](/Artefatos/StoryBoard.md) 
+      - [1.2.5. Mapa Mental](/Artefatos/Mapamental.md)
     - [1.3. Modelagem BPMN](/ModelagemBPMN/modelagem.md)
       - [1.3.1. Scrum + XP](/ModelagemBPMN/scrumxp.md)
     - [1.4. Participações](/Participacoes/participacoes.md)
@@ -25,3 +27,4 @@
       - [1.5.1. HeatMap](/IniciativasExtras/heatmap.md)
       - [1.5.2. Quadro de Conhecimentos](/IniciativasExtras/conhecimentos.md)
       - [1.5.3. Projeto](/IniciativasExtras/projeto.md)
+
