@@ -1,7 +1,7 @@
 # Ata da reunião do dia 04/11/2024
 
 
-- **Data:** 04/11/2024
+- **Data:** 03/11/2024
 - **Horário de início:** 14:30
 - **Duração aproximada:** 1 hora
 - **Local:** Microsoft Teams, Online
@@ -45,5 +45,5 @@ Apresentação e discussão dos artefatos desenvolvidos pelo subgrupo 1.3, lista
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da Revisão
 |:----:|----|---------|-----|:-------:|-------|
-|`1.0`| 04/11/2024 | Criação do documento |[Harryson C Martins](https://github.com/harry-cmartin) | | | 
+|`1.0`| 03/11/2024 | Criação do documento |[Harryson C Martins](https://github.com/harry-cmartin) | | | 
 
