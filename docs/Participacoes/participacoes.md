@@ -2,11 +2,49 @@
 
 Para facilitar o pareamento entre os membros do grupo, o mesmo foi dividido em subgrupos, sendo eles:
 
+---
+
 ### Squad 1
 
+Subgrupo que ficou mais encarregado do Módulo Design Sprint.
 
+| Matricula | Nome             |
+| --------- | ---------------- |
+| 211030649 | Yan Werlley      |
+| 202046087 | Fabrício Macedo  |
+| 190133813 | Italo Bruno      |
+| 190106956 | Gabriel Esteves  |
 
-## Módulo Design Sprint (Foco_1)
+---
+
+### Squad 2
+
+Subgrupo que ficou mais encarregado do Módulo Artefato Generalista.
+
+| Matricula | Nome             |
+| --------- | ---------------- |
+| 211030649 | Christian Hirsch |
+| 211030649 | Flavio Gustavo   |
+| 211045140 | Ian Lucca Soares |
+| 211031790 | Oscar Correia    |
+
+---
+
+### Squad 3
+
+Subgrupo que ficou mais encarregado do Módulo Modelagem BPMN.
+
+| Matricula | Nome            |
+| --------- | --------------- |
+| 211030943 | Artur Jackson   |
+| 202046004 | Caio Moreira    |
+| 211030774 | Gustavo França  |
+| 211039466 | Harryson Campos |
+| 211031889 | Yan Luca Viana  |
+
+---
+
+## Módulo Design Sprint
 
 | Matricula | Nome                | Participação | Descrição                                                                              | Links                                                                                                                                                             |
 | --------- | ------------------- | ------------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +63,7 @@ Para facilitar o pareamento entre os membros do grupo, o mesmo foi dividido em s
 | 211030649 | Yan Werlley         | Excelente    | Atuei em todas partes do design sprint                                                 | [PR31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)                                                                                   |
 
 
-## Módulo Artefato Generalista (Foco_2)
+## Módulo Artefato Generalista
 
 | Matricula | Nome                | Participação | Descrição                                                                                                                     | Links                                                                                                                                                                                                                                                                                                                             |
 | --------- | ------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +82,7 @@ Para facilitar o pareamento entre os membros do grupo, o mesmo foi dividido em s
 | 211030649 | Yan Werlley         | Boa          | Criei a pagina inicial do artefato generalista                                                                                | [PR31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)                                                                                                                                                                                                                                                   |
 
 
-## Módulo Modelagem BPMN (Foco_3)
+## Módulo Modelagem BPMN
 
 | Matricula | Nome                | Participação | Descrição                                                                                                                               | Links                                                                                                                                                             |
 | --------- | ------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,3 +99,21 @@ Para facilitar o pareamento entre os membros do grupo, o mesmo foi dividido em s
 | 211031790 | Oscar Correia       | Regular      | Verifiquei o documento na realização.                                                                                                   | [PR31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)                                                                                   |
 | 211031889 | Yan Luca Viana      |              |                                                                                                                                         |                                                                                                                                                                   |
 | 211030649 | Yan Werlley         | Nula         | Não participei                                                                                                                          |                                                                                                                                                                   |
+
+## Iniciativas Extras
+
+| Matricula | Nome                | Participação | Descrição                                                                                                                                                                                                                                                           | Links                                                                                                                                                                                                                                                                                                                                                                               |
+| --------- | ------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 211030943 | Artur Jackson       | Excelente    | Desenvolvi a estrutura e o diagrama BPMN do projeto                                                                                                                                                                                                                 | [PR16](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/16)                                                                                                                                                                                                                                                                                                     |
+| 202046004 | Caio Moreira        | Excelente    | Contribui para a construição do diagrama BPMN do projeto                                                                                                                                                                                                            | [PR16](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/16)                                                                                                                                                                                                                                                                                                     |
+| 211030649 | Christian Hirsch    | Excelente    | Criação e desenvolvimento do cronograma , cronograma executalvel , preechimento do heatmap e mapa de conhecimentos                                                                                                                                                  | [PR7](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/7/commits/ce637286a570a9b16e861710d3562c846b164dbf) , [PR28](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/28) , [PR09](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/9) , [PR15](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/15) |
+| 202046087 | Fabrício Macedo     | Excelente    | Criação e controle do Quadro de Conhecimentos. <br> Organização do documento de Participações                                                                                                                                                                                                                    | [PR15](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/15) , [PR37](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/37)                                                                                                                                                                                                                                                                                                    |
+| 211030649 | Flavio Gustavo      |              |                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                     |
+| 190106956 | Gabriel Esteves     |              |                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                     |
+| 211030774 | Gustavo França      | Excelente    | Contribui para a criação do diagrama extra Projeto - BPMN                                                                                                                                                                                                           | [PR23](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/23)                                                                                                                                                                                                                                                                                                     |
+| 211039466 | Harryson Campos     | Excelente    | Criação da introdução, referenciação e revisão do artefato de iniciativas extras e participação da criação do diagrama BPMN do projeto, além da ata.                                                                                                                | [PR22](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/22), [PR32](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/32)                                                                                                                                                                                                                    |
+| 211045140 | Ian Lucca Soares    | Excelente    | Criação e desenvolvimento do cronograma executalvel, Contribui para o Heatmap e o quadro de conhecimentos                                                                                                                                                           | [PR28](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/28) , [PR09](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/9) , [PR15](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/15)                                                                                                                                  |
+| 190133813 | Italo Bruno Avelino | Excelente    | Criação da parte inicial e do código de conduta                                                                                                                                                                                                                     | [PR03](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/3), [PR33](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/33)                                                                                                                                                                                                                     |
+| 211031790 | Oscar Correia       | Excelente    | Participei do HeatMap.<br>Controlei algumas regras para melhor gerenciamento do projeto no github<br>Participei de reuniões de todos os squad<br>Determinei alguns padrões de projeto<br>Criação do Diagrama Ishikawa<br>Criação da página inicial do projeto       | [PR21,](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21) [PR27](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/27)                                                                                                                                                                                                                    |
+| 211031889 | Yan Luca Viana      |              |                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                     |
+| 211030649 | Yan Werlley         | Excelente    | Criei e controlei o HeatMap.<br>Controlei algumas regras para melhor gerenciamento do projeto no github<br>Criação de regra para 2 revisões e edição de branchs com nome errados<br>Criei planilha para participações<br>Orientação em relação ao projeto no github | [PR9](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/9), [PR13](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/13), [PR5](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/5)                                                                                                                                       |
