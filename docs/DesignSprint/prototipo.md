@@ -11,14 +11,14 @@
 <p align="justify">&emsp;&emsp;O protótipo de alta fidelidade foi desenvolvido pelo [Squad 1](<!-- PATH -->) durante a etapa de _Prototype_ da Design Sprint. A ferramente utilizada para desenvolver as telas da aplicação web foi o Figma, com base nos requisitos obtidos nos artefatos:</p>
 
   - [Brainstorming](/DesignSprint/brainstorming.md);
-  - [StoryBoard](<!-- PATH -->);
+  - [StoryBoard](/Artefatos/StoryBoard.md);
   - [BPMN do Projeto](/IniciativasExtras/projeto.md).
 
 Foram definidas fases de Verificação e Validação na modelagem da metodologia que será utilizada pelo grupo, entretanto, o protótipo ainda não passou por essas etapas.
 
 ## Protótipo de Alta Fidelidade
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="650" src="https://embed.figma.com/proto/yEyaXcxeiijamTfDtlTTYY/TorneioPro?scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=2-190&starting-point-node-id=2%3A190&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="850" height="650" src="https://embed.figma.com/proto/yEyaXcxeiijamTfDtlTTYY/TorneioPro?scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=2-190&starting-point-node-id=2%3A190&embed-host=share" allowfullscreen></iframe>
 
 ### Funcionalidades abordadas
 
@@ -50,4 +50,4 @@ Foram definidas fases de Verificação e Validação na modelagem da metodologia
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
-| `1.0` | 03/11/2024 | Adição do documento de Prototipagem | [Fabricio Queiroz](https://github.com/FabricioDeQueiroz) | [Yan Werlley](https://github.com/YanWerlley) | [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) |
+| `1.0` | 03/11/2024 | Adição do documento de Prototipagem | [Fabricio Queiroz](https://github.com/FabricioDeQueiroz) | [Yan Werlley](https://github.com/YanWerlley) | [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) [PR#36](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/36)|
