@@ -21,7 +21,7 @@ Este HeatMap tem como objetivo simplificar o agendamento de reuniões para o gru
 
 ## Heat Map
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiMebgnyHjop1PcJeVbLSat8WFygm1Wxv8D2wbkzUB-Vt5UENiFPRzxCioymf850GSFmck3C7iLCfa/pubhtml#" height="380"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiMebgnyHjop1PcJeVbLSat8WFygm1Wxv8D2wbkzUB-Vt5UENiFPRzxCioymf850GSFmck3C7iLCfa/pubhtml#" width="950" height="450"></iframe>
 
 ## Recomendações
 
