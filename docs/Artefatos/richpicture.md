@@ -27,6 +27,13 @@ Fonte: <a href="https://github.com/YanWerlley" target="_blank">Yan Werlley</a>
 Fonte: <a href="https://github.com/artur-jack" target="_blank">Artur Jackson</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 3: Rich Picture - Fabrício de Queiroz.</p>
+<img src=".\Assets\RichPictures\RichPicture-Fabrício-Macedo-de-Queiroz.png" alt="Diagrama 5W2H" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/FabricioDeQueiroz" target="_blank">Fabrício de Queiroz</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
