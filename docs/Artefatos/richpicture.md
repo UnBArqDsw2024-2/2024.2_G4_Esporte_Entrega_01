@@ -114,4 +114,5 @@ xxxxxxxxxxxxxxxxxx
 | 1.8 | 04/11/2024 | Adição do Rich Picture | [Italo Bruno](https://github.com/italobrunom) |  | |
 | 1.9 | 04/11/2024 | Adição do Rich Picture | [Christian Hirsch](https://github.com/crstyhs) |  | |
 | 2.0 | 04/11/2024 | Adição do Rich Picture | [Flavio Melo](https://github.com/flavioovatsug) |  | |
+| 2.1 | 04/11/2024 | Adição do Rich Picture | [Ian Lucca](https://github.com/IanLucca12) |  | |
 
