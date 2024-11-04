@@ -39,7 +39,7 @@ A adoção do Scrum ajudará a organizar as sprints e priorizar o backlog de ati
 | 1.0    | 02/11/2024 | Criação do documento e inserção do diagrama ScrumXP | [Gustavo França](https://github.com/gustavofbs) | | |
 | 1.1    | 02/11/2024 | Adição de introdução ao diagrama |[Caio Sulz](https://github.com/CaioSulz), [Harryson C Martins](https://github.com/harry-cmartin), [Artur Jackson](https://github.com/artur-jack) e [Gustavo França](https://github.com/gustavofbs) | | |
 | 1.2    | 03/11/2024 | Altera plataforma do iframe | [Gustavo França](https://github.com/gutavofbs) | [Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19) | 
-|`1.2`| 03/11/2024 | Adição da Rastreabilidade | [Christian Hirsch](https://github.com/crstyhs) || | 
+|`1.3`| 03/11/2024 | Adição da Rastreabilidade | [Christian Hirsch](https://github.com/crstyhs) |[Oscar de Brito](https://github.com/OscarDeBrito)| [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)| 
 
 
 
