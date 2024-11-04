@@ -110,26 +110,25 @@ Fonte: <a href="https://github.com/IanLucca12"target="_blank">Ian Lucca </a>
 Fonte: <a href="https://github.com/yan-luca"target="_blank">Yan Luca </a>
 </p>
 
-## Referências Bibliográgicas 
+## Referência Bibliográfica
 
-xxxxxxxxxxxxxxxxxx
+> 1. Serrano, Milene. Arquitetura E Desenho de Software AULA - Projeto Não Orientado a Abordagens Específicas, Rich Picture. Nov. 2024.
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
-|:----:|----|---------|-----|:-------:|-----| 
-| 1.0 | 04/11/2024 | Criação do Rich Picture | [Yan Werlley](https://github.com/YanWerlley) |  | |
-| 1.1 | 04/11/2024 | Adição do Rich Picture | [Artur Jackson](https://github.com/artur-jack) |  | |
-| 1.2 | 04/11/2024 | Adição do Rich Picture | [Fabricio](https://github.com/FabricioDeQueiroz) |  | |
-| 1.3 | 04/11/2024 | Adição do Rich Picture | [Gabriel Esteves](https://github.com/GabrielMEsteves) |  | |
-| 1.4 | 04/11/2024 | Adição do Rich Picture | [Gustavo França](https://github.com/gustavofbsy) |  | |
-| 1.5 | 04/11/2024 | Adição do Rich Picture | [Oscar de Brito](https://github.com/OscarDeBrito) |  | |
-| 1.6 | 04/11/2024 | Adição do Rich Picture | [Caio Sulz](https://github.com/CaioSulz) |  | |
-| 1.7 | 04/11/2024 | Adição do Rich Picture | [Harryson C](https://github.com/harry-cmartin)|||
-| 1.8 | 04/11/2024 | Adição do Rich Picture | [Italo Bruno](https://github.com/italobrunom) |  | |
-| 1.9 | 04/11/2024 | Adição do Rich Picture | [Christian Hirsch](https://github.com/crstyhs) |  | |
-| 2.0 | 04/11/2024 | Adição do Rich Picture | [Flavio Melo](https://github.com/flavioovatsug) |  | |
-| 2.1 | 04/11/2024 | Adição do Rich Picture | [Ian Lucca](https://github.com/IanLucca12) |  | |
-| 2.2 | 04/11/2024 | Adição do Rich Picture | [Yan Luca](https://github.com/yan-luca) |  | |
-| 2.3 | 04/11/2024 | Adição do Rich Picture Final | [Flavio Melo](https://github.com/flavioovatsug) |  | |
-
+| Versão | Data       | Descrição                    | Autor                                                                                              | Revisor                                          | Detalhes da revisão                                                             |
+|-:-:----|------------|------------------------------|----------------------------------------------------------------------------------------------------|-:-:----------------------------------------------|---------------------------------------------------------------------------------|
+| 1.0    | 04/11/2024 | Criação do Rich Picture      | [Yan Werlley](https://github.com/YanWerlley)                                                       |                                                  |                                                                                 |
+| 1.1    | 04/11/2024 | Adição do Rich Picture       | [Artur Jackson](https://github.com/artur-jack)                                                     |                                                  |                                                                                 |
+| 1.2    | 04/11/2024 | Adição do Rich Picture       | [Fabricio](https://github.com/FabricioDeQueiroz)                                                   |                                                  |                                                                                 |
+| 1.3    | 04/11/2024 | Adição do Rich Picture       | [Gabriel Esteves](https://github.com/GabrielMEsteves)                                              |                                                  |                                                                                 |
+| 1.4    | 04/11/2024 | Adição do Rich Picture       | [Gustavo França](https://github.com/gustavofbsy)                                                   |                                                  |                                                                                 |
+| 1.5    | 04/11/2024 | Adição do Rich Picture       | [Oscar de Brito](https://github.com/OscarDeBrito)                                                  |                                                  |                                                                                 |
+| 1.6    | 04/11/2024 | Adição do Rich Picture       | [Caio Sulz](https://github.com/CaioSulz)                                                           |                                                  |                                                                                 |
+| 1.7    | 04/11/2024 | Adição do Rich Picture       | [Harryson C](https://github.com/harry-cmartin)                                                     |                                                  |                                                                                 |
+| 1.8    | 04/11/2024 | Adição do Rich Picture       | [Italo Bruno](https://github.com/italobrunom)                                                      |                                                  |                                                                                 |
+| 1.9    | 04/11/2024 | Adição do Rich Picture       | [Christian Hirsch](https://github.com/crstyhs)                                                     |                                                  |                                                                                 |
+| 2.0    | 04/11/2024 | Adição do Rich Picture       | [Flavio Melo](https://github.com/flavioovatsug)                                                    |                                                  |                                                                                 |
+| 2.1    | 04/11/2024 | Adição do Rich Picture       | [Ian Lucca](https://github.com/IanLucca12)                                                         |                                                  |                                                                                 |
+| 2.2    | 04/11/2024 | Adição do Rich Picture       | [Yan Luca](https://github.com/yan-luca)                                                            |                                                  |                                                                                 |
+| 2.3    | 04/11/2024 | Adição do Rich Picture Final | [Flavio Melo](https://github.com/flavioovatsug) e [Fabricio](https://github.com/FabricioDeQueiroz) | [Fabricio](https://github.com/FabricioDeQueiroz) | [PR41](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/41) |
