@@ -53,6 +53,13 @@ Fonte: <a href="https://github.com/gustavofbs" target="_blank">Gustavo França</
 Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 7: Rich Picture - Caio Sulz.</p>
+<img src=".\Assets\RichPictures\RichPicture-Caio-Sulz.jpeg" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/CaioSulz" target="_blank">Caio Sulz</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
