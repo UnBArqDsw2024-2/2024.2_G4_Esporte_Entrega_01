@@ -13,18 +13,25 @@ XXXXXXXXXXXXXXX
 
 ## Rich Picture de cada membro
 
-<p style="text-align: center; font-size: small;">Figura 1: Rich Picture - Yan.</p>
-<img src=".\Assets\RichPictures\RichPicture-Yan-Werlley-de-Freitas-Paulo.png" alt="Diagrama 5W2H" width="950" height="450">
-
-<p style="text-align: center; font-size: small;">
-Fonte: <a href="https://github.com/YanWerlley" target="_blank">Yan Werlley</a>
-</p>
-
 <p style="text-align: center; font-size: small;">Figura 2: Rich Picture - Artur Jackson.</p>
-<img src=".\Assets\RichPictures\RichPicture-Artur-Jackson-Leal-Fontinele.jpeg" alt="Diagrama 5W2H" width="950" height="450">
+<img src=".\Assets\RichPictures\RichPicture-Artur-Jackson-Leal-Fontinele.jpeg" alt="Diagrama Rich Picture" width="950" height="450">
 
 <p style="text-align: center; font-size: small;">
 Fonte: <a href="https://github.com/artur-jack" target="_blank">Artur Jackson</a>
+</p>
+
+<p style="text-align: center; font-size: small;">Figura 3: Rich Picture - Gustavo França.</p>
+<img src=".\Assets\RichPictures\RichPicture-Gustavo-Franca-Boa-Sorte.png" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/artur-jack" target="_blank">Gustavo França</a>
+</p>
+
+<p style="text-align: center; font-size: small;">Figura 1: Rich Picture - Yan.</p>
+<img src=".\Assets\RichPictures\RichPicture-Yan-Werlley-de-Freitas-Paulo.png" alt="Diagrama Rich Picture" width="950" height="450">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/YanWerlley" target="_blank">Yan Werlley</a>
 </p>
 
 ## Referências Bibliográgicas 
@@ -36,4 +43,5 @@ xxxxxxxxxxxxxxxxxx
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
 | 1.0 | 04/11/2024 | Criação do Rich Picture | [Yan Werlley](https://github.com/YanWerlley) |  | |
+| 1.1 | 04/11/2024 | Criação do Rich Picture | [Gustavo França](https://github.com/gustavofbsy) |  | |
 
