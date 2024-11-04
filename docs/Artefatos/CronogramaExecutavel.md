@@ -17,6 +17,7 @@ Um cronograma executável é um documento que detalha as atividades de um projet
 
 _Autor:  [Ian Lucca](https://github.com/IanLucca12), 2024._
 
+## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| ----- |
