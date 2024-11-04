@@ -5,38 +5,38 @@ O Diagrama de Causa-Efeito, também conhecido como Diagrama de Ishikawa ou Diagr
 
 Desenvolvido por Kaoru Ishikawa, ele auxilia equipes na visualização dos fatores que contribuem para um problema, facilitando a identificação de causas raiz ao agrupar fatores relacionados, promovendo uma análise sistemática e colaborativa, que ajuda na tomada de decisões para a resolução eficaz do problema.
 
-Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser usado para estruturar uma sessão de brainstorming que permite identificar possíveis causas para um problema, classificando as ideias em categorias úteis.
+Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser usado para estruturar uma sessão de [brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) que permite identificar possíveis causas para um problema, classificando as ideias em categorias úteis.
 
 ## Dificuldade em achar uma plataforma para criar campeonatos em tempo real:
 
 ## Mercado:
 <p align="justify">&emsp;&emsp;Refere-se à demanda e interesse do público ou dos consumidores pela plataforma. Um mercado com pouco interesse ou demanda restrita pode dificultar a viabilidade econômica do desenvolvimento da plataforma.</p>
 
-**Pouco interesse**: Existe uma falta de interesse geral no mercado para plataformas que criam campeonatos em tempo real, o que reduz a demanda e o investimento nesse tipo de tecnologia.
+**Pouco interesse**: Existe uma falta de interesse geral no mercado para [plataformas](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) que criam campeonatos em tempo real, o que reduz a demanda e o investimento nesse tipo de tecnologia.
 
 **Demanda restrita**: A procura por essas plataformas é limitada, talvez por serem nichos específicos ou pela falta de conscientização sobre os benefícios dessas soluções.
 
 ## Funcionalidade:
-<p align="justify">&emsp;&emsp;Envolve os recursos e capacidades específicas que a plataforma oferece. Para ser eficaz, a plataforma deve incluir uma variedade de funcionalidades que atendam às necessidades dos usuários, como a capacidade de criar e gerenciar campeonatos em tempo real.
+<p align="justify">&emsp;&emsp;Envolve os recursos e capacidades específicas que a plataforma oferece. Para ser eficaz, a plataforma deve incluir uma variedade de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">bugs</a> que atendam às necessidades dos <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">funcionalidades</a>, como a capacidade de criar e gerenciar campeonatos em tempo real.
 
-**Recursos variados/específicos**: A plataforma precisa oferecer uma variedade de recursos e funcionalidades específicas para atender às diversas necessidades dos usuários.
+**Recursos variados/específicos**: A plataforma precisa oferecer uma variedade de recursos e funcionalidades específicas para atender às diversas necessidades dos [usuários](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario).
 
 ## Tecnologia:
 <p align="justify">&emsp;&emsp;Refere-se aos aspectos técnicos envolvidos na criação e manutenção da plataforma. Isso inclui a complexidade técnica do desenvolvimento, bem como o nível de interesse e expertise técnica disponível para lidar com esses desafios.</p> 
 
-**Complexidade técnica**: O desenvolvimento de uma plataforma para criar campeonatos em tempo real envolve desafios técnicos significativos, que podem dificultar a implementação e manutenção.
+**Complexidade técnica**: O desenvolvimento de uma plataforma para criar campeonatos em tempo real envolve desafios técnicos significativos, que podem dificultar a [implementação](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) e manutenção.
 
 **Interesse técnico**: Pode haver uma falta de interesse ou conhecimento técnico entre os desenvolvedores para criar e manter essas plataformas, exacerbando os desafios tecnológicos.
 
 ## Usabilidade:
-<p align="justify">&emsp;&emsp;Diz respeito à facilidade de uso da plataforma. Uma interface intuitiva e uma curva de aprendizado suave são essenciais para garantir que os usuários possam utilizar a plataforma de maneira eficaz e sem frustrações.</p>
+<p align="justify">&emsp;&emsp;Diz respeito à facilidade de uso da plataforma. Uma <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">interface</a> intuitiva e uma curva de aprendizado suave são essenciais para garantir que os usuários possam utilizar a plataforma de maneira eficaz e sem frustrações.</p>
 
 **Interface complicada**: Se a interface da plataforma for difícil de usar, isso pode desmotivar os usuários e reduzir a adoção da plataforma.
   
 **Curva de aprendizado**: Uma curva de aprendizado íngreme pode impedir que novos usuários se sintam confortáveis utilizando a plataforma rapidamente, afetando a experiência do usuário.
 
 ## Manutenção:
-<p align="justify">&emsp;&emsp;Refere-se às necessidades contínuas de manutenção e atualização da plataforma. Isso inclui a correção de bugs, a implementação de melhorias e a garantia de que a plataforma permaneça segura e funcional ao longo do tempo. O custo e o esforço necessários para a manutenção podem ser significativos.</p>
+<p align="justify">&emsp;&emsp;Refere-se às necessidades contínuas de manutenção e atualização da plataforma. Isso inclui a correção de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">bugs</a>, a implementação de melhorias e a garantia de que a plataforma permaneça segura e funcional ao longo do tempo. O custo e o esforço necessários para a manutenção podem ser significativos.</p>
 
 **Manutenção constante**: A plataforma pode requerer manutenção contínua para permanecer funcional e segura, o que pode ser um desafio para os desenvolvedores.
 
@@ -67,7 +67,7 @@ Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser 
 
 <p align="justify">&emsp;&emsp;A estratégia se refere ao planejamento e às diretrizes que orientam o desenvolvimento e a manutenção da plataforma. Uma estratégia bem definida permite que o projeto seja executado de forma organizada, com objetivos claros e práticas sustentáveis, assegurando a longevidade e a qualidade da plataforma.</p>
 
-**Escopo do Projeto**: Definir um escopo claro ajuda a focar nas funcionalidades essenciais para os campeonatos em tempo real. Isso evita a inclusão de recursos desnecessários e garante que o produto final atenda aos objetivos com eficiência e sem sobrecarregar o desenvolvimento.
+**Escopo do Projeto**: Definir um [escopo](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) claro ajuda a focar nas funcionalidades essenciais para os campeonatos em tempo real. Isso evita a inclusão de recursos desnecessários e garante que o produto final atenda aos objetivos com eficiência e sem sobrecarregar o desenvolvimento.
 
 **Manutenção Preventiva**: Implementar uma rotina de manutenção preventiva ajuda a prevenir falhas e problemas que poderiam comprometer a experiência do usuário. Uma estratégia de manutenção contínua garante que o sistema permaneça confiável, especialmente em momentos de maior uso, como durante campeonatos.
 
@@ -79,7 +79,7 @@ Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser 
 
 **Comprometimento**: O comprometimento da equipe é essencial para manter a qualidade e o ritmo de evolução do projeto. Quando todos estão alinhados com os objetivos do projeto, o desenvolvimento se torna mais eficiente e direcionado.
 
-**Conhecimento Técnico**: A equipe precisa ter expertise técnica nas áreas necessárias para desenvolver um sistema em tempo real. Conhecimento em backend, front-end, UX/UI e sistemas escaláveis é fundamental para entregar uma plataforma robusta e com bom desempenho.
+**Conhecimento Técnico**: A equipe precisa ter [expertise](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) técnica nas áreas necessárias para desenvolver um sistema em tempo real. Conhecimento em backend, front-end, UX/UI e sistemas escaláveis é fundamental para entregar uma plataforma robusta e com bom desempenho.
 
 ### Recursos
 

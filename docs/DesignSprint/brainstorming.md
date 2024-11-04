@@ -22,7 +22,7 @@ Este documento contém uma breve explicação do uso do Brainstorming juntamente
 ---
 ## Conclusão
 
-O brainstorming elaborado acima será usado como base para elaboração do mapa mental, representando uma organização dos pensamentos do integrantes.
+O brainstorming elaborado acima será usado como base para elaboração do [mapa mental](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Mapamental), representando uma organização dos pensamentos do integrantes.
 ---
 
 ## Referências Bibliográgicas 

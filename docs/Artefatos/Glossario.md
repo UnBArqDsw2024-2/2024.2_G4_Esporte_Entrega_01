@@ -21,7 +21,7 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 | BPMN                       | Business Process Model and Notation.                                                                                                                         |
 | BrainStorming              | Técnica de geração de ideias para estimular a criatividade e encontrar soluções inovadoras para problemas complexos.                                          |
 | Bugs                       | Erros ou falhas em um software que fazem com que ele funcione de maneira incorreta ou inesperada.                                                            |
-| Desing                     | Design é o processo de planejar e criar soluções visuais, funcionais e estéticas para resolver problemas ou comunicar ideias de forma eficaz.                 |
+| Design                     | Design é o processo de planejar e criar soluções visuais, funcionais e estéticas para resolver problemas ou comunicar ideias de forma eficaz.                 |
 | Elicitação                 | Processo em que se busca entender e identificar as necessidades, expectativas e requisitos de um produto ou sistema.                                          |
 | Empecilhos                 | Algo que impede ou dificulta a realização de uma ação ou objetivo.                                                                                           |
 | Escopo                     | Delimitação dos objetivos, entregáveis e atividades de um projeto ou de uma aplicação.                                                                         |
