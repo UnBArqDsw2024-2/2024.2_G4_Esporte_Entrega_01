@@ -38,5 +38,5 @@ O usuário faz o seu cadastro e do time com os jogadores participantes, com o in
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
-| 1.1 | 02/11/2024 | Criação do documento StoryBoard | [GabrielMEsteves](https://github.com/GabrielMEsteves) |  ||
-| 1.2 | 03/11/2024 | Adição de uma introdução | [Ian Lucca](https://github.com/IanLucca12) |  ||
+| 1.0 | 02/11/2024 | Criação do documento StoryBoard | [GabrielMEsteves](https://github.com/GabrielMEsteves) |  ||
+| 1.1 | 03/11/2024 | Adição de uma introdução | [Ian Lucca](https://github.com/IanLucca12) |  [Oscar de Brito](https://github.com/OscarDeBrito)|[PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)|

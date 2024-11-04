@@ -27,13 +27,13 @@ O brainstorming elaborado acima será usado como base para elaboração do [mapa
 
 ## Referências Bibliográgicas 
 
-- O que é Brainstorming? Como fazer? Técnicas e modelos editáveis. Disponível em: <https://miro.com/pt/brainstorming/o-que-e-brainstorming/>. Acesso em: 1 de nov. de 1024.
+> <a id="REF1" href="#anchor_1">1.</a> - O que é Brainstorming? Como fazer? Técnicas e modelos editáveis. Disponível em: <https://miro.com/pt/brainstorming/o-que-e-brainstorming/>. Acesso em: 1 de nov. de 1024.
 
-- Brainstorming: O Que É, Como Fazer (Passo a Passo). Disponível em: <https://neilpatel.com/br/blog/o-que-e-brainstorming/>. Acesso em: 1 de nov. de 2024.
+> <a id="REF1" href="#anchor_1">2.</a> - Brainstorming: O Que É, Como Fazer (Passo a Passo). Disponível em: <https://neilpatel.com/br/blog/o-que-e-brainstorming/>. Acesso em: 1 de nov. de 2024.
 ‌
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da Revisão
 |:----:|----|---------|-----|:-------:|-------|
 |`1.0`| 02/11/2024 | Criação do documento |[Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) |[Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19) | 
-|`1.1`| 03/11/2024 | Adição da Rastreabilidade | [Ian Lucca](https://github.com/IanLucca12) [Christian Hirsch](https://github.com/crstyhs) || | 
+|`1.1`| 03/11/2024 | Adição da Rastreabilidade | [Ian Lucca](https://github.com/IanLucca12) [Christian Hirsch](https://github.com/crstyhs) |[Oscar de Brito](https://github.com/OscarDeBrito)| [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)| 
