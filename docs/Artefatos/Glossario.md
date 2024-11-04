@@ -15,7 +15,8 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 | Palavra                     | Significado                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 5w2h                       | Ferramenta de planejamento e gestão que auxilia na organização e execução de tarefas e projetos.                                                              |
-| Acoplamento                      |  grau de dependência entre diferentes módulos ou componentes de um sistema                                                              ||artefatos|Todos os elementos ou produtos gerados ao longo de um processo de desenvolvimento|
+| Acoplamento                      |  grau de dependência entre diferentes módulos ou componentes de um sistema                                                              |
+|artefatos|Todos os elementos ou produtos gerados ao longo de um processo de desenvolvimento|
 | Back end                   | Parte do desenvolvimento de software responsável por processar e gerenciar os dados e funcionalidades que dão suporte a essa interface.                       |
 | Backlog                    | Lista priorizada de tarefas.                                                                                                                                 |
 | Banco de Dados Relacional   | Banco de dados que organiza e armazena informações em tabelas, estruturadas de forma a permitir que os dados sejam relacionados entre si.                     |
@@ -39,17 +40,19 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 | Metas                      | Objetivos específicos que se deseja alcançar.                                                                                                                |
 | Metodologia                | Conjunto de práticas e processos organizados para guiar o desenvolvimento de software, com foco em eficiência e qualidade.                                   |
 | Modelagem                  | Processo de criar representações simplificadas de um sistema ou de uma aplicação para entender e planejar sua estrutura e funcionalidades.                   |
-| plataformas                | Ambientes de software onde aplicativos são executados.                                                                                                      |prototipos|representações preliminares de um produto, sistema ou ideia, criadas para testar e validar conceitos antes do desenvolvimento final. |
+| plataformas                | Ambientes de software onde aplicativos são executados.                                                                                                      |
+|prototipos|representações preliminares de um produto, sistema ou ideia, criadas para testar e validar conceitos antes do desenvolvimento final. |
 | Requisitos                 | Especificações e condições que um sistema, produto ou serviço deve atender para satisfazer as necessidades dos interessados.                                  |
 | Scrum                      | Metodologia ágil de gerenciamento de projetos que utiliza ciclos curtos, chamados sprints.                                                                    |
-| Sprint                     | Período curto e definido em metodologias ágeis para realizar tarefas específicas.                                                                              ||squad|pequena equipe multidisciplinar e autônoma formada por profissionais de diferentes áreas (como desenvolvedores, designers, analistas de qualidade, entre outros) que trabalham juntos para alcançar um objetivo comum|
+| Sprint                     | Período curto e definido em metodologias ágeis para realizar tarefas específicas.                                                                              |
+|squad|pequena equipe multidisciplinar e autônoma formada por profissionais de diferentes áreas (como desenvolvedores, designers, analistas de qualidade, entre outros) que trabalham juntos para alcançar um objetivo comum|
 | Storyboard                 | Sequência de ilustrações ou quadros que esboçam visualmente cenas de uma história ou projeto, ajudando a planejar a narrativa.                                |
 | Testes de Aplicação        | Processos essenciais no desenvolvimento de software, focados em verificar e validar se uma aplicação funciona como esperado.                                  |
 | Usuário                    | Pessoa que utiliza um sistema.                                                                                                                                 |
 
 
 
-<font size="3"><p style="text-align: center"> Autores: <a href="https://github.com/IanLucca12" target="_blank">Ian Lucca</a> , <a href="https://github.com/flavioovatsug" target="_blank">Flavio Gustavo</a> ,  <a href="https://github.com/OscarDeBrito" target="_blank">Oscar De Brito</a> , <a href="https://github.com/crstyhs" target="_blank">Christian Hirsch</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"> Autores: <a href="https://github.com/IanLucca12" target="_blank">Ian Lucca</a> , <a href="https://github.com/flavioovatsug" target="_blank">Flavio Gustavo</a> ,  <a href="https://github.com/OscarDeBrito" target="_blank">Oscar De Brito</a> , <a href="https://github.com/crstyhs" target="_blank">Christian Hirsch</a>, <a href="https://github.com/harry-cmartin" target="_blank">Harryson C</a>, 2024</p></font>
 
 ## Referências Bibliográgicas 
 > <a id="REF1" href="#anchor_1">1.</a> - ATELIÊ DE EDUCADORES. Construindo um Glossário. Disponível em: https://atelierdeducadores.blogspot.com/2015/09/construindo-um-glossario.html. Acesso em: 3 nov. 2024.
@@ -65,4 +68,5 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 | 1.0    | 03/11/2024 | Criação do documento do Glossário     | [Christian Hirsch](https://github.com/)                                          | | |
 | 1.1    | 03/11/2024 | Atualiza palavras do glossário       | [Christian Hirsch](https://github.com/), [Ian Lucca](https://github.com/IanLucca12), [Oscar de Brito](https://github.com/OscarDeBrito) |    [Ian Lucca](https://github.com/IanLucca12)        |                               [PR#21](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21)                                                    |
 | 1.2    | 03/11/2024 | Adição de palavras ao glossário    | [Ian Lucca](https://github.com/IanLucca12)                                          |[Oscar de Brito](https://github.com/OscarDeBrito) |[PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) |
+|1.3|04/11/2024|Adição de mais palavras ao glossário|[Harryson C](https://github.com/harry-cmartin)|||
 
