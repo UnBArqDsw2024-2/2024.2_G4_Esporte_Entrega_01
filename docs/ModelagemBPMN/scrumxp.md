@@ -2,7 +2,7 @@
 
 Por decisão unânime entre o grupo, optamos em combinar as práticas do Scrum e Extreme Programming (XP) para maximizar a eficiência e a colaboração da equipe.
 
-- **Revisor**: Dado que o projeto não possui um stakeholder externo, um membro do grupo assume o papel de revisor, responsável por avaliar os artefatos gerados e garantir a qualidade antes da entrega.
+- **Revisor**: Dado que o projeto não possui um stakeholder externo, um membro do grupo assume o papel de revisor, responsável por avaliar os [artefatos](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) gerados e garantir a qualidade antes da entrega.
 
 - **Pares**: Inspirado pela prática de desenvolvimento em pares do XP, as atividades são realizadas por duplas ou pequenos grupos de desenvolvedores, promovendo a troca de conhecimento e garantindo que todos estejam alinhados durante a execução das tarefas.
 
