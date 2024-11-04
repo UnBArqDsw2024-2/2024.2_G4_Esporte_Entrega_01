@@ -59,19 +59,16 @@ ScrumMaster: [Oscar de Brito](https://github.com/OscarDeBrito)
 
 
 ## Screenshots da Primeira Entrega
-<center> <figcaption>Figura 1: 5w2h.</figcaption> 
 
-![](../Assets/5w2h.png)
-</center>
-<center> <figcaption>Figura 2: Diagrama Causa-efeito Dificuldades.</figcaption> 
 
-![](../Assets/ishikawa1.png)
-</center>
-<center> <figcaption>Figura 3: Mapa Mental.</figcaption> 
-
-![](../Assets/mapamental.png)
-</center>
-
+<div style="text-align: center;">
+    <img src="../Assets/5w2h.png"  width="450px">
+    <img src="../Assets/mapamental.png"  width="450px">
+</div>
+<div style="text-align: center;">
+    <img src="../Assets/ishikawa1.png"  width="450px">
+    <img src="../Assets/prototipo.png"  width="450px">
+</div>
 
 ## Histórico de Versão
 
@@ -79,3 +76,4 @@ ScrumMaster: [Oscar de Brito](https://github.com/OscarDeBrito)
 |:----:|----|---------|-----|:-------:|-----| 
 | 1.0 | 02/11/2024 | Criação do documento | [Italo Bruno](https://github.com/italobrunoM) |[Yan Werlley](https://github.com/YanWerlley) | Alteração no histórico de Versão para novo padrão [PR#13](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/13)|
 | 1.1 | 03/11/2024 | Inserção das Informações da Página Home | [Oscar de Brito](https://github.com/OscarDeBrito) | | |
+| 1.2 | 04/11/2024 | Inserção de Screenshot | [Yan Werlley](https://github.com/YanWerlley) | | |
