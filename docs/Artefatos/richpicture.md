@@ -13,6 +13,13 @@ XXXXXXXXXXXXXXX
 
 ## Rich Picture de cada membro
 
+<p style="text-align: center; font-size: small;">Figura 1: Rich Picture - Yan.</p>
+<img src=".\Assets\RichPictures\RichPicture-Yan-Werlley-de-Freitas-Paulo.png" alt="Diagrama 5W2H" width="950" height="450">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/YanWerlley" target="_blank">Yan Werlley</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
