@@ -27,6 +27,13 @@ Fonte: <a href="https://github.com/YanWerlley" target="_blank">Yan Werlley</a>
 Fonte: <a href="https://github.com/artur-jack" target="_blank">Artur Jackson</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 3: Rich Picture - Gabriel Esteves.</p>
+<img src=".\Assets\RichPictures\RichPicture-Gabriel-Esteves.jpeg" alt="Diagrama 5W2H" width="950" height="450">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/GabrielMEsteves" target="_blank">Gabriel Esteves</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
