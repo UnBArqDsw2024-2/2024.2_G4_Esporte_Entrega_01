@@ -1,6 +1,6 @@
 # Brainstorming
 ## Introdução
-Este documento contém uma breve explicação do uso do [Brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) juntamente com sua elaboração pelos integrantes do grupo 4, o brainstorm foi realizado presencialmente e pode ser encontrado e, [Ata Brainstorming](../Atas/ata_brainstorming.md)
+Este documento contém uma breve explicação do uso do [Brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) juntamente com sua elaboração pelos integrantes do grupo 4, o brainstorm foi realizado presencialmente e pode ser encontrado em [Ata Brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Atas/ata_brainstorming)
 
 <center>
 
