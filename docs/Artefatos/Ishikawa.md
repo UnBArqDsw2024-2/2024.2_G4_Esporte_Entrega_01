@@ -17,7 +17,7 @@ Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser 
 **Demanda restrita**: A procura por essas plataformas é limitada, talvez por serem nichos específicos ou pela falta de conscientização sobre os benefícios dessas soluções.
 
 ## Funcionalidade:
-<p align="justify">&emsp;&emsp;Envolve os recursos e capacidades específicas que a plataforma oferece. Para ser eficaz, a plataforma deve incluir uma variedade de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">bugs</a> que atendam às necessidades dos <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">funcionalidades</a>, como a capacidade de criar e gerenciar campeonatos em tempo real.
+<p align="justify">&emsp;&emsp;Envolve os recursos e capacidades específicas que a plataforma oferece. Para ser eficaz, a plataforma deve incluir uma variedade de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">funcionalidades</a> que atendam às necessidades dos <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">usuários</a>, como a capacidade de criar e gerenciar campeonatos em tempo real.
 
 **Recursos variados/específicos**: A plataforma precisa oferecer uma variedade de recursos e funcionalidades específicas para atender às diversas necessidades dos [usuários](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario).
 
