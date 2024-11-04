@@ -52,9 +52,11 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 <font size="3"><p style="text-align: center"> Autores: <a href="https://github.com/IanLucca12" target="_blank">Ian Lucca</a> , <a href="https://github.com/flavioovatsug" target="_blank">Flavio Gustavo</a> ,  <a href="https://github.com/OscarDeBrito" target="_blank">Oscar De Brito</a> , <a href="https://github.com/crstyhs" target="_blank">Christian Hirsch</a>, 2024</p></font>
 
 ## Referências Bibliográgicas 
-- ATELIÊ DE EDUCADORES. Construindo um Glossário. Disponível em: https://atelierdeducadores.blogspot.com/2015/09/construindo-um-glossario.html. Acesso em: 3 nov. 2024.
-- ACADEMIA.EDU. Manual de Pesquisa e Documentação Científica. Academia.edu. Disponível em: https://tecnobits.com/pt/como-fazer-um-gloss%C3%A1rio/. Acesso em: 3 nov. 2024.
-- SIL INTERNATIONAL. Glossary of Linguistic Terms. Disponível em: https://glossary.sil.org/term. Acesso em: 3 nov. 2024.
+> <a id="REF1" href="#anchor_1">1.</a> - ATELIÊ DE EDUCADORES. Construindo um Glossário. Disponível em: https://atelierdeducadores.blogspot.com/2015/09/construindo-um-glossario.html. Acesso em: 3 nov. 2024.
+
+> <a id="REF1" href="#anchor_1">2.</a> - ACADEMIA.EDU. Manual de Pesquisa e Documentação Científica. Academia.edu. Disponível em: https://tecnobits.com/pt/como-fazer-um-gloss%C3%A1rio/. Acesso em: 3 nov. 2024.
+
+> <a id="REF1" href="#anchor_1">3.</a> - SIL INTERNATIONAL. Glossary of Linguistic Terms. Disponível em: https://glossary.sil.org/term. Acesso em: 3 nov. 2024.
 
 ## Histórico de Versão
 
@@ -62,5 +64,5 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 |:------:|------------|---------------------------------------|-----------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------|
 | 1.0    | 03/11/2024 | Criação do documento do Glossário     | [Christian Hirsch](https://github.com/)                                          | | |
 | 1.1    | 03/11/2024 | Atualiza palavras do glossário       | [Christian Hirsch](https://github.com/), [Ian Lucca](https://github.com/IanLucca12), [Oscar de Brito](https://github.com/OscarDeBrito) |    [Ian Lucca](https://github.com/IanLucca12)        |                               [PR#21](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21)                                                    |
-| 1.3    | 03/11/2024 | Adição de palavras ao glossário    | [Ian Lucca](https://github.com/IanLucca12)                                          | | |
+| 1.2    | 03/11/2024 | Adição de palavras ao glossário    | [Ian Lucca](https://github.com/IanLucca12)                                          |[Oscar de Brito](https://github.com/OscarDeBrito) |[PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) |
 
