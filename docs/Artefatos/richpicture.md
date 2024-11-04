@@ -60,6 +60,13 @@ Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito<
 Fonte: <a href="https://github.com/CaioSulz" target="_blank">Caio Sulz</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 8: Rich Picture Harryson Campos.</p>
+<img src=".\Assets\RichPictures\RichPicture-HarrysonCMartins.jpeg" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/harry-cmartin"target="_blank">Harryson Campos</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
@@ -70,4 +77,5 @@ xxxxxxxxxxxxxxxxxx
 |:----:|----|---------|-----|:-------:|-----| 
 | 1.0 | 04/11/2024 | Criação do Rich Picture | [Yan Werlley](https://github.com/YanWerlley) |  | |
 | 1.1 | 04/11/2024 | Criação do Rich Picture | [Gustavo França](https://github.com/gustavofbsy) |  | |
+|1.2 | 04/11/2024 | Criação do Rich Picture|[Harryson C](https://github.com/harry-cmartin)|||
 
