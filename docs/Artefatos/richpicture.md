@@ -95,6 +95,13 @@ Fonte: <a href="https://github.com/flavioovatsug"target="_blank">Flávio Melo</a
 Fonte: <a href="https://github.com/IanLucca12"target="_blank">Ian Lucca </a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 13: Rich Picture Yan Luca Viana de Araújo Fontenele.</p>
+<img src=".\Assets\RichPictures\RichPicture-Yan-Luca-Viana-de-Araujo-Fontenele.jpg" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/yan-luca"target="_blank">Yan Luca </a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
@@ -115,4 +122,5 @@ xxxxxxxxxxxxxxxxxx
 | 1.9 | 04/11/2024 | Adição do Rich Picture | [Christian Hirsch](https://github.com/crstyhs) |  | |
 | 2.0 | 04/11/2024 | Adição do Rich Picture | [Flavio Melo](https://github.com/flavioovatsug) |  | |
 | 2.1 | 04/11/2024 | Adição do Rich Picture | [Ian Lucca](https://github.com/IanLucca12) |  | |
+| 2.2 | 04/11/2024 | Adição do Rich Picture | [Yan Luca](https://github.com/yan-luca) |  | |
 
