@@ -5,6 +5,7 @@
 
 - **Reuniões**
   - Atas
+    - [Ata Brainstorming - 31/10/2024](/Atas/ata_brainstorming.md)
     - [Ata Artefatos - 02/11/2024](/Atas/atas.md)
     - [Ata Planejamento - 03/11/2024](/Atas/ata_planejamento.md)
     - [Ata Design Sprint - 03/11/2024](/Atas/ata_designsprint.md)
