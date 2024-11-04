@@ -6,6 +6,7 @@
 - **Reuniões**
   - Atas
     - [Ata Artefatos - 02/11/2024](/Atas/atas.md)
+    - [Ata reunião grupo 1.3 - 04/11/2024](/Atas/Ata_gp1_3.md)
 
 - **Base**
   - [1. Desenho de Software](/Base/1.Base.md)
