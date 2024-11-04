@@ -15,12 +15,14 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 | Palavra                     | Significado                                                                                                                                                   |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 5w2h                       | Ferramenta de planejamento e gestão que auxilia na organização e execução de tarefas e projetos.                                                              |
+| Acoplamento                      |  grau de dependência entre diferentes módulos ou componentes de um sistema                                                              |
 | Back end                   | Parte do desenvolvimento de software responsável por processar e gerenciar os dados e funcionalidades que dão suporte a essa interface.                       |
 | Backlog                    | Lista priorizada de tarefas.                                                                                                                                 |
 | Banco de Dados Relacional   | Banco de dados que organiza e armazena informações em tabelas, estruturadas de forma a permitir que os dados sejam relacionados entre si.                     |
 | BPMN                       | Business Process Model and Notation.                                                                                                                         |
 | BrainStorming              | Técnica de geração de ideias para estimular a criatividade e encontrar soluções inovadoras para problemas complexos.                                          |
 | Bugs                       | Erros ou falhas em um software que fazem com que ele funcione de maneira incorreta ou inesperada.                                                            |
+| Coesão                    |  grau em que os elementos de um módulo ou componente de software trabalham juntos para cumprir uma única responsabilidade ou objetivo |
 | Desing                     | Design é o processo de planejar e criar soluções visuais, funcionais e estéticas para resolver problemas ou comunicar ideias de forma eficaz.                 |
 | Elicitação                 | Processo em que se busca entender e identificar as necessidades, expectativas e requisitos de um produto ou sistema.                                          |
 | Empecilhos                 | Algo que impede ou dificulta a realização de uma ação ou objetivo.                                                                                           |
@@ -60,4 +62,5 @@ O Glossário apresentado a seguir foi baseado nos diversos documentos anteriorme
 |:------:|------------|---------------------------------------|-----------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------|
 | 1.0    | 03/11/2024 | Criação do documento do Glossário     | [Christian Hirsch](https://github.com/)                                          | | |
 | 1.1    | 03/11/2024 | Atualiza palavras do glossário       | [Christian Hirsch](https://github.com/), [Ian Lucca](https://github.com/IanLucca12), [Oscar de Brito](https://github.com/OscarDeBrito) |    [Ian Lucca](https://github.com/IanLucca12)        |                               [PR#21](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/21)                                                    |
+| 1.3    | 03/11/2024 | Adição de palavras ao glossário    | [Ian Lucca](https://github.com/IanLucca12)                                          | | |
 
