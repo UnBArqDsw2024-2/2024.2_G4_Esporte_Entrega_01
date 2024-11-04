@@ -74,6 +74,13 @@ Fonte: <a href="https://github.com/harry-cmartin"target="_blank">Harryson Campos
 Fonte: <a href="https://github.com/italobrunoM"target="_blank">Italo Bruno</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 10: Rich Picture Christian Hirsch.</p>
+<img src=".\Assets\RichPictures\RichPicture-Christian-Hirsch.png" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/crstyhs"target="_blank">Christian Hirsch</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
@@ -91,4 +98,5 @@ xxxxxxxxxxxxxxxxxx
 | 1.6 | 04/11/2024 | Adição do Rich Picture | [Caio Sulz](https://github.com/CaioSulz) |  | |
 | 1.7 | 04/11/2024 | Adição do Rich Picture | [Harryson C](https://github.com/harry-cmartin)|||
 | 1.8 | 04/11/2024 | Adição do Rich Picture | [Italo Bruno](https://github.com/italobrunom) |  | |
+| 1.9 | 04/11/2024 | Adição do Rich Picture | [Christian Hirsch](https://github.com/crstyhs) |  | |
 
