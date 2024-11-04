@@ -35,12 +35,12 @@ Essa abordagem promove agilidade na identificação de melhorias e proporciona c
 
 ## Referencias
 
-1. GOOGLE VENTURES. The Design Sprint. Disponível em: [http://www.gv.com/sprint/](http://www.gv.com/sprint/). Acesso em: 02/11/2024.
+> <a id="REF1" href="#anchor_1">1.</a> GOOGLE VENTURES. The Design Sprint. Disponível em: [http://www.gv.com/sprint/](http://www.gv.com/sprint/). Acesso em: 02/11/2024.
 
 ## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor|Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| -- |
-|`1.1` | 02/11/2024| Criação do Documento | [Italo Bruno](https://github.com/italobrunoM)  | | |
-|`1.2` | 03/11/2024| Adição da Conclusão | [Gabriel Esteves](https://github.com/GabrielMEsteves)  | | |
-|`1.3`| 03/11/2024 | Adição da Rastreabilidade |  [Christian Hirsch](https://github.com/crstyhs) || | 
+|`1.0` | 02/11/2024| Criação do Documento | [Italo Bruno](https://github.com/italobrunoM)  | | |
+|`1.1` | 03/11/2024| Adição da Conclusão | [Gabriel Esteves](https://github.com/GabrielMEsteves)  | | |
+|`1.2`| 03/11/2024 | Adição da Rastreabilidade |  [Christian Hirsch](https://github.com/crstyhs) |[Oscar de Brito](https://github.com/OscarDeBrito)|[PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) | 
