@@ -68,9 +68,9 @@ Autor:  [Christian Hirsch](https://github.com/crstyhs), 2024
 >[3] monday. Disponível em: https://monday.com/blog/pt/gestao-de-projetos-pt/cronograma-de-projeto-a-maneira-mais-simples-de-criar-um/ </br>
 
 
-##  Histórico de versões
+## Histórico de Versão
 
 | Versão | Data   | Descrição | Autor | Revisor   | Detalhes da revisão |
 | ------ | ---------- | ---------------- | ------------------ | ----------- | |
 | `1.0`    | 01/11/2024 | Criação do Documento |[Christian Hirsch](https://github.com/crstyhs) |  | 
-| `1.1`    | 02/11/2024 | Adição da introdução do documento |[Caio Sulz](https://github.com/CaioSulz) |  | |
+| `1.1`    | 02/11/2024 | Adição da introdução do documento |[Caio Sulz](https://github.com/CaioSulz) | [Oscar de Brito](https://github.com/OscarDeBrito) | [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)|

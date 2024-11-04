@@ -21,7 +21,7 @@ Este Quadro de Conhecimentos tem como objetivo simplificar a escolha de tecnolog
 
 ## Quadro de Conhecimentos
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQccZ5WpeFd7XGJjWO420CW7hwrUPbRbAtjzhrC64-_lEdC-mt5EZELlYveuMaQKir9DmiG0dS_gKDD/pubhtml?widget=true&amp;headers=false" height=250></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQccZ5WpeFd7XGJjWO420CW7hwrUPbRbAtjzhrC64-_lEdC-mt5EZELlYveuMaQKir9DmiG0dS_gKDD/pubhtml?widget=true&amp;headers=false" width="850" height="350"></iframe>
 
 ## Recomendações
 

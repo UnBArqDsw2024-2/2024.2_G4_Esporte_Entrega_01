@@ -104,13 +104,14 @@ O diagrama de Ishikawa criado destaca áreas cruciais como Estratégia, Usabilid
 
 ## Referências bibliográficas
 
->[1] tecnicon. Disponível em: [tecnicon.com.br](https://www.tecnicon.com.br/blog/541-Analise_de_causa_e_efeito_o_que_e_diagrama_de_Ishikawa_e_como_fazer#:~:text=Surgimento%20do%20Diagrama%20de%20Ishikawa&text=Esta%20ferramenta%2C%20representada%20por%20um,por%20completo%2C%20evitando%20que%20volte.) </br>
+><a id="REF1" href="#anchor_1">1.</a> tecnicon. Disponível em: [tecnicon.com.br](https://www.tecnicon.com.br/blog/541-Analise_de_causa_e_efeito_o_que_e_diagrama_de_Ishikawa_e_como_fazer#:~:text=Surgimento%20do%20Diagrama%20de%20Ishikawa&text=Esta%20ferramenta%2C%20representada%20por%20um,por%20completo%2C%20evitando%20que%20volte.) </br>
 
+## Histórico de Versão
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:| |
-| `1.1` | 02/11/2024 | Criação do documento/Inserção do primeiro diagrama | [Oscar de Brito](https://github.com/OscarDeBrito) |  |
-| `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | 
-| `1.3` | 02/11/2024 | Adição da introdução do documento | [Caio Sulz](https://github.com/CaioSulz) |  | |
-| `1.4` | 03/11/2024 | Adição da conclusão do documento | [Italo Bruno](https://github.com/italobrunom) |  | |
-|`1.5`| 03/11/2024 | Adição da Rastreabilidade |  [Christian Hirsch](https://github.com/crstyhs) || | 
+| `1.0` | 02/11/2024 | Criação do documento/Inserção do primeiro diagrama | [Oscar de Brito](https://github.com/OscarDeBrito) |  |
+| `1.1` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | 
+| `1.2` | 02/11/2024 | Adição da introdução do documento | [Caio Sulz](https://github.com/CaioSulz) |  | |
+| `1.3` | 03/11/2024 | Adição da conclusão do documento | [Italo Bruno](https://github.com/italobrunom) |  | |
+|`1.4`| 03/11/2024 | Adição da Rastreabilidade |  [Christian Hirsch](https://github.com/crstyhs) |[Oscar de Brito](https://github.com/OscarDeBrito)|[PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) | 

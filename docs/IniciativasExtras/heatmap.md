@@ -21,7 +21,7 @@ Este HeatMap tem como objetivo simplificar o agendamento de reuniões para o gru
 
 ## Heat Map
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiMebgnyHjop1PcJeVbLSat8WFygm1Wxv8D2wbkzUB-Vt5UENiFPRzxCioymf850GSFmck3C7iLCfa/pubhtml#" height="380"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTiMebgnyHjop1PcJeVbLSat8WFygm1Wxv8D2wbkzUB-Vt5UENiFPRzxCioymf850GSFmck3C7iLCfa/pubhtml#" width="950" height="450"></iframe>
 
 ## Recomendações
 
@@ -39,4 +39,4 @@ Este HeatMap tem como objetivo simplificar o agendamento de reuniões para o gru
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
-| 1.1 | 02/11/2024 | Criação do HeatMap | [Yan Werlley](https://github.com/YanWerlley) | [Fabricio Queiroz](https://github.com/FabricioDeQueiroz) | [PR#9](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/9)|
+| 1.0 | 02/11/2024 | Criação do HeatMap | [Yan Werlley](https://github.com/YanWerlley) | [Fabricio Queiroz](https://github.com/FabricioDeQueiroz) | [PR#9](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/9)|
