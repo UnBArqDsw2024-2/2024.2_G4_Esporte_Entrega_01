@@ -9,7 +9,15 @@ O Rich Picture é uma ferramenta usada para cada um expressar suas ideias de com
 Para construir os Rich Pictures, houve uma reunião e uma discussão em grupo com base em um [Mapa Mental](/Artefatos/Mapamental.md), que ajudou a proporcionar uma visão ampla dos elementos essenciais. Alguns Rich Pictures foram criados usando a ferramenta on-line, enquanto outros foram desenhados à mão.
 
 ## Rich Picture Final
-XXXXXXXXXXXXXXX
+
+Este é o rich picture final, eleito como o mais representativo após uma votação cuidadosa. Ele reflete de forma clara e abrangente os elementos que foram pensados para o projeto, com suas interações e contextos.
+
+<p style="text-align: center; font-size: small;">Figura 5: Rich Picture - Gustavo França.</p>
+<img src=".\Assets\RichPictures\RichPicture-Gustavo-Franca-Boa-Sorte.png" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/gustavofbs" target="_blank">Gustavo França</a>
+</p>
 
 ## Rich Picture de cada membro
 
@@ -123,4 +131,5 @@ xxxxxxxxxxxxxxxxxx
 | 2.0 | 04/11/2024 | Adição do Rich Picture | [Flavio Melo](https://github.com/flavioovatsug) |  | |
 | 2.1 | 04/11/2024 | Adição do Rich Picture | [Ian Lucca](https://github.com/IanLucca12) |  | |
 | 2.2 | 04/11/2024 | Adição do Rich Picture | [Yan Luca](https://github.com/yan-luca) |  | |
+| 2.3 | 04/11/2024 | Adição do Rich Picture Final | [Flavio Melo](https://github.com/flavioovatsug) |  | |
 
