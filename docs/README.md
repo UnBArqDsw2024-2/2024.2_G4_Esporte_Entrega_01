@@ -62,12 +62,12 @@ ScrumMaster: [Oscar de Brito](https://github.com/OscarDeBrito)
 
 
 <div style="text-align: center;">
-    <img src="../Assets/5w2h.png"  width="450px">
-    <img src="../Assets/mapamental.png"  width="450px">
+    <img src="./Assets/5w2h.png" alt="Diagrama 5W2H" width="450px">
+    <img src="./Assets/mapamental.png" alt="Mapa Mental" width="450px">
 </div>
 <div style="text-align: center;">
-    <img src="../Assets/ishikawa1.png"  width="450px">
-    <img src="../Assets/prototipo.png"  width="450px">
+    <img src="./Assets/ishikawa1.png" alt="Diagrama de Ishikawa" width="450px">
+    <img src="./Assets/prototipo.png" alt="Protótipo de Interface" width="450px">
 </div>
 
 ## Histórico de Versão
