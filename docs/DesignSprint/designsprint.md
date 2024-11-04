@@ -43,3 +43,4 @@ Essa abordagem promove agilidade na identificação de melhorias e proporciona c
 |:----:|----|---------|-----|:-------:| -- |
 |`1.1` | 02/11/2024| Criação do Documento | [Italo Bruno](https://github.com/italobrunoM)  | | |
 |`1.2` | 03/11/2024| Adição da Conclusão | [Gabriel Esteves](https://github.com/GabrielMEsteves)  | | |
+|`1.3`| 03/11/2024 | Adição da Rastreabilidade |  [Christian Hirsch](https://github.com/crstyhs) || | 

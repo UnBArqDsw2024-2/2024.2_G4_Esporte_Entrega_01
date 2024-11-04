@@ -113,3 +113,4 @@ O diagrama de Ishikawa criado destaca áreas cruciais como Estratégia, Usabilid
 | `1.2` | 02/11/2024 | Atualização do documento/Inserção do segundo diagrama | [Flávio Melo](https://github.com/flavioovatsug) |  | 
 | `1.3` | 02/11/2024 | Adição da introdução do documento | [Caio Sulz](https://github.com/CaioSulz) |  | |
 | `1.4` | 03/11/2024 | Adição da conclusão do documento | [Italo Bruno](https://github.com/italobrunom) |  | |
+|`1.5`| 03/11/2024 | Adição da Rastreabilidade |  [Christian Hirsch](https://github.com/crstyhs) || | 

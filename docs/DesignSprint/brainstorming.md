@@ -36,4 +36,4 @@ O brainstorming elaborado acima será usado como base para elaboração do [mapa
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da Revisão
 |:----:|----|---------|-----|:-------:|-------|
 |`1.0`| 02/11/2024 | Criação do documento |[Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) |[Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19) | 
-|`1.1`| 03/11/2024 | Adição da Rastreabilidade | [Ian Lucca](https://github.com/IanLucca12) || | 
+|`1.1`| 03/11/2024 | Adição da Rastreabilidade | [Ian Lucca](https://github.com/IanLucca12) [Christian Hirsch](https://github.com/crstyhs) || | 
