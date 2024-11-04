@@ -81,6 +81,13 @@ Fonte: <a href="https://github.com/italobrunoM"target="_blank">Italo Bruno</a>
 Fonte: <a href="https://github.com/crstyhs"target="_blank">Christian Hirsch</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 11: Rich Picture Flávio Melo.</p>
+<img src=".\Assets\RichPictures\RichPicture-FlavioMelo.png" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/flavioovatsug"target="_blank">Flávio Melo</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
@@ -99,4 +106,5 @@ xxxxxxxxxxxxxxxxxx
 | 1.7 | 04/11/2024 | Adição do Rich Picture | [Harryson C](https://github.com/harry-cmartin)|||
 | 1.8 | 04/11/2024 | Adição do Rich Picture | [Italo Bruno](https://github.com/italobrunom) |  | |
 | 1.9 | 04/11/2024 | Adição do Rich Picture | [Christian Hirsch](https://github.com/crstyhs) |  | |
+| 2.0 | 04/11/2024 | Adição do Rich Picture | [Flavio Melo](https://github.com/flavioovatsug) |  | |
 
