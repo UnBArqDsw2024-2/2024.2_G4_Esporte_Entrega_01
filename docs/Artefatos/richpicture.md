@@ -28,13 +28,13 @@ Fonte: <a href="https://github.com/artur-jack" target="_blank">Artur Jackson</a>
 </p>
 
 <p style="text-align: center; font-size: small;">Figura 3: Rich Picture - Fabrício de Queiroz.</p>
-<img src=".\Assets\RichPictures\RichPicture-Fabrício-Macedo-de-Queiroz.png" alt="Diagrama 5W2H" width="950" height="550">
+<img src=".\Assets\RichPictures\RichPicture-Fabrício-Macedo-de-Queiroz.png" alt="Diagrama Rich Picture" width="950" height="550">
 
 <p style="text-align: center; font-size: small;">
 Fonte: <a href="https://github.com/FabricioDeQueiroz" target="_blank">Fabrício de Queiroz</a>
 
 <p style="text-align: center; font-size: small;">Figura 4: Rich Picture - Gabriel Esteves.</p>
-<img src=".\Assets\RichPictures\RichPicture-Gabriel-Esteves.jpeg" alt="Diagrama 5W2H" width="950" height="450">
+<img src=".\Assets\RichPictures\RichPicture-Gabriel-Esteves.jpeg" alt="Diagrama Rich Picture" width="950" height="450">
 
 <p style="text-align: center; font-size: small;">
 Fonte: <a href="https://github.com/GabrielMEsteves" target="_blank">Gabriel Esteves</a>
@@ -67,6 +67,13 @@ Fonte: <a href="https://github.com/CaioSulz" target="_blank">Caio Sulz</a>
 Fonte: <a href="https://github.com/harry-cmartin"target="_blank">Harryson Campos</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 9: Rich Picture Italo Bruno.</p>
+<img src=".\Assets\RichPictures\RichPicture-Italo-Bruno.jpeg" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/italobrunoM"target="_blank">Italo Bruno</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
@@ -76,6 +83,12 @@ xxxxxxxxxxxxxxxxxx
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
 | 1.0 | 04/11/2024 | Criação do Rich Picture | [Yan Werlley](https://github.com/YanWerlley) |  | |
-| 1.1 | 04/11/2024 | Criação do Rich Picture | [Gustavo França](https://github.com/gustavofbsy) |  | |
-|1.2 | 04/11/2024 | Criação do Rich Picture|[Harryson C](https://github.com/harry-cmartin)|||
+| 1.1 | 04/11/2024 | Adição do Rich Picture | [Artur Jackson](https://github.com/artur-jack) |  | |
+| 1.2 | 04/11/2024 | Adição do Rich Picture | [Fabricio](https://github.com/FabricioDeQueiroz) |  | |
+| 1.3 | 04/11/2024 | Adição do Rich Picture | [Gabriel Esteves](https://github.com/GabrielMEsteves) |  | |
+| 1.4 | 04/11/2024 | Adição do Rich Picture | [Gustavo França](https://github.com/gustavofbsy) |  | |
+| 1.5 | 04/11/2024 | Adição do Rich Picture | [Oscar de Brito](https://github.com/OscarDeBrito) |  | |
+| 1.6 | 04/11/2024 | Adição do Rich Picture | [Caio Sulz](https://github.com/CaioSulz) |  | |
+| 1.7 | 04/11/2024 | Adição do Rich Picture | [Harryson C](https://github.com/harry-cmartin)|||
+| 1.8 | 04/11/2024 | Adição do Rich Picture | [Italo Bruno](https://github.com/italobrunom) |  | |
 
