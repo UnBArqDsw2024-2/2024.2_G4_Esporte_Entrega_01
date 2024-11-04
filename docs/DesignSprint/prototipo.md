@@ -12,7 +12,7 @@
 
   - [Brainstorming](/DesignSprint/brainstorming.md);
   - [StoryBoard](<!-- PATH -->);
-  - [BPMN da Metodologia](/ModelagemBPMN/scrumxp.md).
+  - [BPMN do Projeto](/IniciativasExtras/projeto.md).
 
 Foram definidas fases de Verificação e Validação na modelagem da metodologia que será utilizada pelo grupo, entretanto, o protótipo ainda não passou por essas etapas.
 
@@ -50,4 +50,4 @@ Foram definidas fases de Verificação e Validação na modelagem da metodologia
 
 |Versão|Data|Descrição|Autor|Revisor| Detalhes da revisão |
 |:----:|----|---------|-----|:-------:|-----| 
-| `1.0` | 03/11/2024 | Adição do documento de Prototipagem | [Fabricio Queiroz](https://github.com/FabricioDeQueiroz) | | |
+| `1.0` | 03/11/2024 | Adição do documento de Prototipagem | [Fabricio Queiroz](https://github.com/FabricioDeQueiroz) | [Yan Werlley](https://github.com/YanWerlley) | [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31) |
