@@ -88,6 +88,13 @@ Fonte: <a href="https://github.com/crstyhs"target="_blank">Christian Hirsch</a>
 Fonte: <a href="https://github.com/flavioovatsug"target="_blank">Flávio Melo</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 12: Rich Picture Ian Lucca Soares Mesquita.</p>
+<img src=".\Assets\RichPictures\RichPicture-IanMesquita.jpeg" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/IanLucca12"target="_blank">Ian Lucca </a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
