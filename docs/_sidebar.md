@@ -6,6 +6,8 @@
 - **Reuniões**
   - Atas
     - [Ata Artefatos - 02/11/2024](/Atas/atas.md)
+    - [Ata Planejamento - 03/11/2024](/Atas/ata_planejamento.md)
+    - [Ata Design Sprint - 03/11/2024](/Atas/ata_designsprint.md)
     - [Ata Artefatos 2 - 04/11/2024](/Atas/Ata_gp1_3.md)
 
 - **Base**
