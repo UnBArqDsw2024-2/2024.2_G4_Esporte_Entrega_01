@@ -14,8 +14,8 @@ A utilização da BPMN permite que organizações representem seus processos de 
 
 ## Histórico de Versão
 
-| Versão | Data    | Data de Revisão  | Descrição     | Autor    | Revisor    | Detalhes da revisão |
-| ------ | ------- | ---------------- | ------------- | -------- | -----------| ------------------- |
-| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento de Introdução BPMN |[Harryson C](https://github.com/harry-cmartin) | | |
-| `1.1`    | 03/11/2024 |                | Criação da Conclusão BPMN |[Italo Bruno](https://github.com/italobrunom) | | |
-| `1.2`    | 03/11/2024 |                |Adição da Rastreabilidade |[Ian Lucca](https://github.com/IanLucca12) | | |
+| Versão | Data   | Descrição     | Autor    | Revisor    | Detalhes da revisão |
+| ------ | ------- | ---------------- | ------------- | -------- | -----------|
+| `1.0`    | 02/11/2024 | Criação do documento de Introdução BPMN |[Harryson C](https://github.com/harry-cmartin) | | |
+| `1.1`    | 03/11/2024 | Criação da Conclusão BPMN |[Italo Bruno](https://github.com/italobrunom) | | |
+| `1.2`    | 03/11/2024 |Adição da Rastreabilidade |[Ian Lucca](https://github.com/IanLucca12) | | |
