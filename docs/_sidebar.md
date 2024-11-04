@@ -6,6 +6,8 @@
 - **Reuniões**
   - Atas
     - [Ata Artefatos - 02/11/2024](/Atas/atas.md)
+    - [Ata Planejamento - 03/11/2024](/Atas/ata_planejamento.md)
+    - [Ata Design Sprint - 03/11/2024](/Atas/ata_designsprint.md)
     - [Ata Artefatos 2 - 04/11/2024](/Atas/Ata_gp1_3.md)
 
 - **Base**
@@ -20,8 +22,7 @@
       - [1.2.4. Mapa Mental](/Artefatos/Mapamental.md)
       - [1.2.5. Glossário](/Artefatos/Glossario.md)
       - [1.2.6. Cronograma Executável](/Artefatos/CronogramaExecutavel.md)
-      - [1.2.7. Mapa Mental](/Artefatos/Mapamental.md)
-      - [1.2.8. StoryBoard](/Artefatos/StoryBoard.md) 
+      - [1.2.7. StoryBoard](/Artefatos/StoryBoard.md) 
     - [1.3. Modelagem BPMN](/ModelagemBPMN/modelagem.md)
       - [1.3.1. Scrum + XP](/ModelagemBPMN/scrumxp.md)
     - [1.4. Participações](/Participacoes/participacoes.md)

@@ -37,7 +37,7 @@ Apresentação e discussão dos artefatos desenvolvidos pelo subgrupo 1.3, lista
 
 ## <a>3. Gravação da Reunião </a>
 
-<iframe src="https://unbbr-my.sharepoint.com/personal/211030943_aluno_unb_br/_layouts/15/embed.aspx?UniqueId=bb1f0528-7193-4157-b7ee-02e675893bc3&embed=%7B"ust"%3Atrue%2C"hv"%3A"CopyEmbedCode"%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Chamada com Caio e 3 outras pessoas-20241103_123121-Gravação de Reunião.mp4"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5MH3lkXT9O4?si=r6e4Rn98gtiRt2Pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

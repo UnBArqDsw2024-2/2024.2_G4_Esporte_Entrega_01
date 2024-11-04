@@ -7,6 +7,6 @@ Artefatos extras criados: [BPMN do Projeto](../IniciativasExtras/projeto.md), [T
 
 ## Histórico de Versão
 
-| Versão | Data    | Data de Revisão  | Descrição     | Autor    | Revisor    | Detalhes da revisão |
-| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | |
-| `1.0`    | 02/11/2024 | 02/11/2024               | Criação do documento Iniciativas Extras|[Harryson C Martins](https://github.com/harry-cmartin) | | |
+| Versão | Data  | Descrição     | Autor    | Revisor    | Detalhes da revisão |
+| ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- |
+| `1.0`    | 02/11/2024   | Criação do documento Iniciativas Extras|[Harryson C Martins](https://github.com/harry-cmartin) | | |
