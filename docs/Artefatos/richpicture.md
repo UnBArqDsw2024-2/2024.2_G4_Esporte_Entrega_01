@@ -20,6 +20,13 @@ XXXXXXXXXXXXXXX
 Fonte: <a href="https://github.com/YanWerlley" target="_blank">Yan Werlley</a>
 </p>
 
+<p style="text-align: center; font-size: small;">Figura 2: Rich Picture - Artur Jackson.</p>
+<img src=".\Assets\RichPictures\RichPicture-Artur-Jackson-Leal-Fontinele.jpeg" alt="Diagrama 5W2H" width="950" height="450">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/artur-jack" target="_blank">Artur Jackson</a>
+</p>
+
 ## Referências Bibliográgicas 
 
 xxxxxxxxxxxxxxxxxx
