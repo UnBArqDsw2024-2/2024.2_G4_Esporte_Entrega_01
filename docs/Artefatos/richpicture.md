@@ -43,7 +43,14 @@ Fonte: <a href="https://github.com/GabrielMEsteves" target="_blank">Gabriel Este
 <img src=".\Assets\RichPictures\RichPicture-Gustavo-Franca-Boa-Sorte.png" alt="Diagrama Rich Picture" width="950" height="550">
 
 <p style="text-align: center; font-size: small;">
-Fonte: <a href="https://github.com/artur-jack" target="_blank">Gustavo França</a>
+Fonte: <a href="https://github.com/gustavofbs" target="_blank">Gustavo França</a>
+</p>
+
+<p style="text-align: center; font-size: small;">Figura 6: Rich Picture - Oscar de Brito.</p>
+<img src=".\Assets\RichPictures\RichPicture-Oscar-Correia-de-Brito-Neto.png" alt="Diagrama Rich Picture" width="950" height="550">
+
+<p style="text-align: center; font-size: small;">
+Fonte: <a href="https://github.com/OscarDeBrito" target="_blank">Oscar de Brito</a>
 </p>
 
 ## Referências Bibliográgicas 
