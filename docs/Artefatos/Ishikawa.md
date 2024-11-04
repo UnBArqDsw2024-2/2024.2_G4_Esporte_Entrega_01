@@ -57,7 +57,7 @@ Considerado uma das sete ferramentas básicas de qualidade, o diagrama pode ser 
 ## Desenvolver uma plataforma para criar campeonatos em tempo real
 
 ### Usabilidade:
-<p align="justify">&emsp;&emsp;A usabilidade determina o quão intuitiva e agradável é a interação dos usuários com o sistema. Para uma plataforma de campeonatos em tempo real, a facilidade de uso impacta diretamente o sucesso do site, uma vez que organizadores e participantes dependem de atualizações e navegação rápida durante eventos.</p>
+<p align="justify">&emsp;&emsp;A [usabilidade](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) determina o quão intuitiva e agradável é a interação dos usuários com o sistema. Para uma plataforma de campeonatos em tempo real, a facilidade de uso impacta diretamente o sucesso do site, uma vez que organizadores e participantes dependem de atualizações e navegação rápida durante eventos.</p>
 
 **Interface Simples**: A plataforma deve ser projetada com uma interface limpa e bem organizada. Elementos visuais e funções precisam estar dispostos de forma lógica, permitindo que qualquer usuário, independente de experiência prévia, consiga acessar as informações e realizar ações rapidamente.
 

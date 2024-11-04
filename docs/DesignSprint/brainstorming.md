@@ -29,7 +29,7 @@ Fonte: <a href="https://github.com/harry-cmartin
 
 ## Explicação dos Elementos do Brainstorming
 
-<p align="justify">&emsp;&emsp;O Brainstorming foi realizado para gerar ideias acerca do projeto e iniciar a atividade de Elicitação e Descoberta de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">requisitos</a>. O brainstorming foi realizado pelo subgrupo Squad 1, entretanto, ideias discutidas com todo o grupo anteriormente, também foram levadas em consideração.</p>
+<p align="justify">&emsp;&emsp;O Brainstorming foi realizado para gerar ideias acerca do projeto e iniciar a atividade de [Elicitação](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario)  e Descoberta de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">requisitos</a>. O brainstorming foi realizado pelo subgrupo [Squad 1](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) , entretanto, ideias discutidas com todo o grupo anteriormente, também foram levadas em consideração.</p>
 
 &emsp;&emsp;Algumas das temáticas discutidas durante o brainstorming foram:
   - Ideias para o projeto.
