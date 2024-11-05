@@ -24,6 +24,7 @@
       - [1.2.5. Glossário](/Artefatos/Glossario.md)
       - [1.2.6. Cronograma Executável](/Artefatos/CronogramaExecutavel.md)
       - [1.2.7. StoryBoard](/Artefatos/StoryBoard.md) 
+      - [1.2.8. Plano de Riscos](/Artefatos/PlanoDeRiscos.md)
     - [1.3. Modelagem BPMN](/ModelagemBPMN/modelagem.md)
       - [1.3.1. Scrum + XP](/ModelagemBPMN/scrumxp.md)
     - [1.4. Participações](/Participacoes/participacoes.md)
