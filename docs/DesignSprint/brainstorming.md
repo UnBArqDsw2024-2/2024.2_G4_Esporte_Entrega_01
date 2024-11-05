@@ -1,10 +1,35 @@
 # Brainstorming
 ## Introdução
-Este documento contém uma breve explicação do uso do [Brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) juntamente com sua elaboração pelos integrantes do grupo 4
+Este documento contém uma breve explicação do uso do [Brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) juntamente com sua elaboração pelos integrantes do grupo 4, o brainstorm foi realizado presencialmente e pode ser encontrado em [Ata Brainstorming](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Atas/ata_brainstorming)
+
+<center>
+
+**Tabela 1**- Participantes
+
+| Nome                           | Presença |
+|--------------------------------|----------|
+| Artur Jackson                  | Presente |
+| Caio Moreira                   | Presente |
+| Christian Hirsch               | Presente |
+| Fabrício Macedo                | Presente |
+| Flavio Gustavo                 | Presente |
+| Gabriel Esteves                | Presente |
+| Gustavo França                 | Presente |
+| Harryson Campos                | Presente |
+| Ian Lucca Soares               | Presente |
+| Italo Bruno Avelino            | Presente |
+| Yan Luca Viana                 | Presente |
+| Oscar Correia                  | Presente |
+| Yan Werlley                    | Presente |
+
+Fonte: <a href="https://github.com/harry-cmartin
+" target="_blank">Harryson Campos</a> 
+
+</center>
 
 ## Explicação dos Elementos do Brainstorming
 
-<p align="justify">&emsp;&emsp;O Brainstorming foi realizado para gerar ideias acerca do projeto e iniciar a atividade de Elicitação e Descoberta de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">requisitos</a>. O brainstorming foi realizado pelo subgrupo Squad 1, entretanto, ideias discutidas com todo o grupo anteriormente, também foram levadas em consideração.</p>
+<p align="justify">&emsp;&emsp;O Brainstorming foi realizado para gerar ideias acerca do projeto e iniciar a atividade de [Elicitação](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario)  e Descoberta de <a href="https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario">requisitos</a>. O brainstorming foi realizado pelo subgrupo [Squad 1](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario) , entretanto, ideias discutidas com todo o grupo anteriormente, também foram levadas em consideração.</p>
 
 &emsp;&emsp;Algumas das temáticas discutidas durante o brainstorming foram:
   - Ideias para o projeto.
@@ -37,3 +62,4 @@ O brainstorming elaborado acima será usado como base para elaboração do [mapa
 |:----:|----|---------|-----|:-------:|-------|
 |`1.0`| 02/11/2024 | Criação do documento |[Fabrício de Queiroz](https://github.com/FabricioDeQueiroz) |[Christian Hirsch](https://github.com/crstyhs) |[PR#19](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/19) | 
 |`1.1`| 03/11/2024 | Adição da Rastreabilidade | [Ian Lucca](https://github.com/IanLucca12) [Christian Hirsch](https://github.com/crstyhs) |[Oscar de Brito](https://github.com/OscarDeBrito)| [PR#31](https://github.com/UnBArqDsw2024-2/2024.2_G4_Esporte_Entrega_01/pull/31)| 
+|`1.2`|04/11/2024|Correções extras e adição do quadro participantes|[Harryson C Martins](https://github.com/harry-cmartin)|||

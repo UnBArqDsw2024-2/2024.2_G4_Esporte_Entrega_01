@@ -38,7 +38,7 @@ Foram definidas fases de Verificação e Validação na modelagem da metodologia
 
 ## Conclusão
 
-<p align="justify">&emsp;&emsp;Como o projeto do grupo ainda não está associado à um cliente, e não foram tomadas medidas para que a aplicação fosse desenvolvida Orientada a mercado, não houve a realização de Validação como é especificado na Modelagem BPMN da Metodologia. Entretanto, será realizada posteriormente. Ainda assim, a prototipagem permitiu ao grupo observar e identificar falhas, problemas e avaliar a interface.
+<p align="justify">&emsp;&emsp;Como o projeto do grupo ainda não está associado à um cliente, e não foram tomadas medidas para que a aplicação fosse desenvolvida Orientada a mercado, não houve a realização de Validação como é especificado na [Modelagem BPMN da Metodologia](https://unbarqdsw2024-2.github.io/2024.2_G4_Esporte_Entrega_01/#/Artefatos/Glossario). Entretanto, será realizada posteriormente. Ainda assim, a prototipagem permitiu ao grupo observar e identificar falhas, problemas e avaliar a interface.
 
 &emsp;&emsp;Essa prototipagem inicial serve como um recurso valioso para refinar os requisitos e guiar as próximas etapas do projeto. Com base nas observações feitas durante essa fase, o grupo poderá corrigir partes da interface, para promover uma experiência mais intuitiva, identificando áreas que precisam de ajustes antes da implementação completa. A validação com um cliente, planejada para fases futuras, será essencial para alinhar o produto final às expectativas do cliente e do grupo, buscando garantir que a solução seja prática e relevante para os usuários finais.</p>
 
